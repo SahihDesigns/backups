@@ -1,8 +1,8 @@
 ---
+icon: bullseye-arrow
 description: >-
   Our Ethics Page is designed to help you navigate your journey with confidence
   and clarity. Here’s a quick overview :)
-icon: bullseye-arrow
 ---
 
 # Quick Start
@@ -19,7 +19,7 @@ icon: bullseye-arrow
 
 <figure><img src="../.gitbook/assets/Slice 32.png" alt="nadra seller"><figcaption><p>Seller Dashboard</p></figcaption></figure>
 
-## Congratulations! You are now a Seller on Nadra. Now here's how you can sell with confidence, on nadra and beyond.
+### Congratulations! You are now a Seller on Nadra. Now here's how you can sell with confidence, on nadra and beyond.
 
 ***
 
@@ -45,4 +45,4 @@ icon: bullseye-arrow
 
 ***
 
-**We hope this guide serves as a helpful companion. Explore with ease, knowing your rights and tools for success await you here at Nadra.**
+**We hope this guide serves as a helpful companion. Explore with ease, knowing your rights and tools for success.**
