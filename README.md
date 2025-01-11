@@ -1,12 +1,7 @@
 ---
-description: Sell Smarter, empowered by Knowledge That Benefits You and Your Customers.
 icon: hand-wave
-cover: broken-reference
-coverY: 27
+description: Sell Smarter, empowered by Knowledge That Benefits You and Your Customers.
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:

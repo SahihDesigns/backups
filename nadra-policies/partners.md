@@ -1,7 +1,7 @@
 ---
-icon: recycle
 description: Coming Soon.
+icon: handshake
 ---
 
-# Returns & Refunds
+# Partners
 

@@ -13,13 +13,28 @@ description: >-
 
 **Sign Up for a Seller Account**
 
-* Visit the Nadra website and click on "Sell on Nadra."
-* Complete the registration form by providing your personal and business information.
-* Submit the registration form to create your seller account.
+To get started, you need to create your Nadra Seller account. This account is the foundation of your store on Nadra and allows you to list products, and manage orders.
 
-<figure><img src="../.gitbook/assets/Slice 32.png" alt="nadra seller"><figcaption><p>Seller Dashboard</p></figcaption></figure>
+* **Step 1:** Go to the sign-up page and create a seller account.
+* **Step 2:** Provide the necessary information such as your name, email, contact details, and business information as well as additional information details.
+* **Step 3:** Complete any necessary verification steps to ensure the trustworthiness of your account.
+* **Step 4:** Review and accept our Terms of Use and Privacy Policy.
 
-### Congratulations! You are now a Seller on Nadra. Now here's how you can sell with confidence, on nadra and beyond.
+{% hint style="info" %}
+Keep your account information up to date to maintain trust with your customers.
+{% endhint %}
+
+**Set Up Your Shop**
+
+Once your account is set up, it's time to create your store. This step is key in making sure that your business showcases products and services that comply with our [<mark style="color:purple;">terms.</mark>](#user-content-fn-1)[^1]
+
+* **Step 1:** Choose a shop name and upload a profile picture/logo that reflects your business.
+* **Step 2:** Fill in your store’s details (location, contact info, etc.).
+* **Step 3:** Set up your payout details securely via the platform.&#x20;
+
+> **Tip**: Transparency is important. Make sure to list clear, honest product descriptions and prices.
+
+<figure><img src="../.gitbook/assets/Slice 32.png" alt="nadra seller"><figcaption><p>Your Cozy Seller Dashboard</p></figcaption></figure>
 
 ***
 
@@ -45,4 +60,10 @@ description: >-
 
 ***
 
+#### Conclusion
+
+Congratulations on getting started with Nadra <mark style="color:purple;background-color:yellow;">✨🎉</mark>! By following these steps and adhering to the ethical business guidelines outlined above and in similar sections, you’ll be well on your way to running a successful, nadra compliant e-commerce store that fosters trust, fairness, and transparency _In shaa Allaah._
+
 **We hope this guide serves as a helpful companion. Explore with ease, knowing your rights and tools for success.**
+
+[^1]: Find our terms in our Terms of use section under "Nadra Policies" in the Navigation bar to your left.

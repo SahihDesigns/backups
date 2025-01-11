@@ -12,7 +12,9 @@
 * [Privacy Policy](nadra-policies/privacy-policy.md)
 * [Payments & Transactions](nadra-policies/payments-and-transactions.md)
 * [Returns & Refunds](nadra-policies/returns-and-refunds.md)
+* [Partners](nadra-policies/partners.md)
 
 ## Business Dealings
 
 * [Buying & Selling](business-dealings/buying-and-selling.md)
+* [Permissible Posts](business-dealings/permissible-posts.md)
