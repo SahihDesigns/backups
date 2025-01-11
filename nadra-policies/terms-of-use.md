@@ -90,7 +90,7 @@ We’re all about smooth deliveries (or shipping)! Here are some important detai
 
 ### **5. Internal Policies**
 
-To keep things running smoothly, we have additional internal guidelines don't fear what is relevant to you is already outlined, detailed and provided :thumbsup:
+To keep things running smoothly, we have additional internal guidelines, don't fear what is relevant to you is already outlined, detailed and provided :thumbsup:
 
 * These policies may change as we grow, but we’ll always try our best notify you about updates.
 * Breaking the rules may lead to temporary suspension or permanent removal from the platform.

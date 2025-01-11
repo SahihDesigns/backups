@@ -61,7 +61,7 @@ We only share what’s absolutely needed, like:
 
 ### **5. Keeping Your Data Safe**
 
-We use the best tools and practices to protect your information, but hey, even the best security can’t promise 100% security from breaches. That said, we’re always on guard to safeguard what you share with us. 💪
+We use the best tools and practices to protect your information, but hey, even the best security can’t promise 100% safety from breaches. That said, we’re always on guard to safeguard what you share with us. 💪
 
 ***
 
