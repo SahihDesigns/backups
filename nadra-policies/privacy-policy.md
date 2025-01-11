@@ -74,7 +74,7 @@ Here’s what you’re entitled to:
 * **Delete It**: Want us to remove your data? Done, unless it’s essential for legal stuff.
 * **Download It**: Get a copy of your info if needed.
 * **Change Your Mind**: You can withdraw consent any time (for stuff like marketing emails).
-* **Want to cancel your subscription:** You don't even have to ask!
+* **Want to cancel your subscription:** If you'd like to cancel your subscription, please contact our [**Support Team**](#user-content-fn-1)[^1] directly. They’ll guide you through the process and ensure your subscription is ended at the right time. Our team is here to assist and make the process as smooth as possible for you!
 
 Just drop us an email at [<mark style="color:purple;">wecare@nadra.ng</mark>](https://mail.google.com/mail/u/0/?fs=1\&tf=cm\&source=mailto\&su=Terms+of+service+Inquiry\&to=wecare@nadra.ng\&body=As-Salaamu+Alaykum,%0D%0A%0D%0AI+would+like+to+know+more+about...), and we’ll assist you!
 
@@ -82,7 +82,7 @@ Just drop us an email at [<mark style="color:purple;">wecare@nadra.ng</mark>](ht
 
 ### **7. Children’s Privacy**
 
-If you’re under 13, grab your parent’s or guardian’s permission first before signing up. We don’t knowingly collect info from young adults.
+If you’re under 13, grab your parent’s or guardian’s permission first before signing up. We don’t knowingly collect info from you.
 
 ***
 
@@ -97,3 +97,6 @@ We might tweak this policy every now and then (so we can make it even better!). 
 Have concerns or ideas about how we handle your privacy? Email us at <mark style="color:purple;">wecare@nadra.ng.</mark>
 
 JazaakiLlaah khaira for trusting Nadra. You’re the heart of our platform, and your privacy is part of our promise. 🌸
+
+[^1]: hint, hint: wecare@nadra.ng or team@nadra.ng
+
