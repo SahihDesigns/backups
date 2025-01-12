@@ -96,7 +96,7 @@ We might tweak this policy every now and then (so we can make it even better!). 
 
 Have concerns or ideas about how we handle your privacy? Email us at <mark style="color:purple;">wecare@nadra.ng.</mark>
 
-JazaakiLlaah khaira for trusting Nadra. You’re the heart of our platform, and your privacy is part of our promise. 🌸
+JazaakiLlaah khaira for trusting Nadra. You’re the heart of our platform, and your privacy is part of our commitment. 🌸
 
 [^1]: hint, hint: wecare@nadra.ng or team@nadra.ng
 
