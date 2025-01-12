@@ -1,8 +1,8 @@
 ---
+icon: cart-shopping
 description: >-
   From secure transactions to honest reviews, these terms ensure our marketplace
   is rooted in fairness, integrity, and shared Islaamic values In shaa Allaah.
-icon: cart-shopping
 ---
 
 # Shopper Terms
@@ -18,7 +18,7 @@ Let’s make every interaction meaningful!
 
 Kindness makes everything better. Be polite and respectful in all interactions.
 
-> _“Nothing is heavier on the scale of a believer on the Day of Resurrection than good character.” – Sunan al-Tirmidhī 2002_
+> _“Nothing is heavier on the scale of a believer on the Day of Resurrection than good character.” – **Sunan al-Tirmidhī 2002**_
 
 #### 2. **Check Twice, Deliver Right**
 
@@ -31,15 +31,25 @@ No surprises = happier you.
 
 #### 4. **Write Honest Reviews**
 
-Your feedback helps everyone. Keep it fair, helpful, and constructive—it matters!
+Your feedback is a significant contribution. It may help to see reviews as a tool to help sellers improve, not as a tool to diminish trust and cause doubts. Keep it fair, honest, and constructive—it matters!
 
-#### 5. **Follow Refund Guidelines**
+> It is reported that Abī Qilābah (rahimahullāh) said:
+>
+> > “**If some information reaches you about your brother which you dislike, then search for an excuse for him. And if you do not find an excuse for him, then say: “Maybe he has an excuse which I have no knowledge of.**”
+>
+> <mark style="color:purple;">**Source:**</mark> [<mark style="color:purple;">**Rawdatul Uqalā page 184**</mark>](https://salaficentre.com/2017/07/10/make-excuses-fellow-muslims-abu-qilabah/)
+
+{% hint style="info" %}
+**Hint:** This doe **Not** remove seller accountability! JazakiLlaahu khaira.
+{% endhint %}
+
+5\. **Follow Refund Guidelines**
 
 Stick to the seller's return policy and keep items in their original condition.
 
 #### 6. **Collaborate on Disputes**
 
-If something goes wrong, we’re here. Share your concerns, and we’ll resolve it together. <mark style="color:purple;">wecare@nadra.ng</mark>
+If something goes wrong, we’re here. Share your concerns, and we’ll resolve it together _In shaa Allaah_. <mark style="color:purple;">wecare@nadra.ng</mark>
 
 #### 7. **Keep Transactions on Nadra**
 
