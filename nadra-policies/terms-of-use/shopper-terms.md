@@ -40,7 +40,7 @@ Your feedback is a significant contribution. It may help to see reviews as a too
 > <mark style="color:purple;">**Source:**</mark> [<mark style="color:purple;">**Rawdatul Uqalā page 184**</mark>](https://salaficentre.com/2017/07/10/make-excuses-fellow-muslims-abu-qilabah/)
 
 {% hint style="info" %}
-**Hint:** This does **Not** remove seller accountability! JazakiLlaahu khaira.
+This does **Not** remove seller accountability! JazakiLlaahu khaira.
 {% endhint %}
 
 5\. **Follow Refund Guidelines**
@@ -49,7 +49,7 @@ Stick to the seller's return policy and keep items in their original condition.
 
 #### 6. **Collaborate on Disputes**
 
-If something goes wrong, we’re here. Share your concerns, and we’ll resolve it together _In shaa Allaah_. <mark style="color:purple;">wecare@nadra.ng</mark>
+If something goes wrong, we’re here. Share your concerns, and we’ll resolve it together _In shaa Allaah_. [<mark style="color:purple;">wecare@nadra.ng</mark>](mailto:wecare@nadra.ng?subject=Terms%20of%20Service%20Inquiry\&body=As-Salaamu%20Alaykum,%0D%0A%0D%0AI%20would%20like%20to%20know%20more%20about...")
 
 #### 7. **Keep Transactions on Nadra**
 
