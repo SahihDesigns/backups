@@ -26,7 +26,7 @@ Keep your account information up to date to maintain trust with your customers.
 
 **Set Up Your Shop**
 
-Once your account is set up, it's time to create your store. This step is key in making sure that your business showcases products and services that comply with our [<mark style="color:purple;">terms.</mark>](#user-content-fn-1)[^1]
+Once your account is set up, it's time to create your store. This step is key in making sure that your business showcases products and services that comply with our [<mark style="color:purple;">terms</mark>](../nadra-policies/terms-of-use.md#id-2.-selling-on-nadra)<mark style="color:purple;">.</mark>
 
 * **Step 1:** Choose a shop name and upload a profile picture/logo that reflects your business.
 * **Step 2:** Fill in your store’s details (location, contact info, etc.).
@@ -65,5 +65,3 @@ Once your account is set up, it's time to create your store. This step is key in
 Congratulations on getting started with Nadra <mark style="color:purple;background-color:yellow;">✨🎉</mark>! By following these steps and adhering to the ethical business guidelines outlined above and in similar sections, you’ll be well on your way to running a successful, nadra compliant e-commerce store that fosters trust, fairness, and transparency _In shaa Allaah._
 
 **We hope this guide serves as a helpful companion. Explore with ease, knowing your rights and tools for success.**
-
-[^1]: Find our terms in our Terms of use section under "Nadra Policies" in the Navigation bar to your left.
