@@ -26,7 +26,7 @@ Keep your account information up to date to maintain trust with your customers.
 
 **Set Up Your Shop**
 
-Once your account is set up, it's time to create your store. This step is key in making sure that your business showcases products and services that comply with our [<mark style="color:purple;">terms</mark>](../nadra-policies/terms-of-use.md#id-2.-selling-on-nadra)<mark style="color:purple;">.</mark>
+Once your account is set up, it's time to create your store. This step is key in making sure that your business showcases products and services that comply with our [<mark style="color:purple;">terms</mark>](../nadra-policies/terms-of-use/#id-2.-selling-on-nadra)<mark style="color:purple;">.</mark>
 
 * **Step 1:** Choose a shop name and upload a profile picture/logo that reflects your business.
 * **Step 2:** Fill in your store’s details (location, contact info, etc.).

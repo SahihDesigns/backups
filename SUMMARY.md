@@ -8,7 +8,8 @@
 
 ## Nadra Policies
 
-* [Terms of Use](nadra-policies/terms-of-use.md)
+* [Terms of Use](nadra-policies/terms-of-use/README.md)
+  * [Shopper Terms](nadra-policies/terms-of-use/shopper-terms.md)
 * [Privacy Policy](nadra-policies/privacy-policy.md)
 * [Payments & Transactions](nadra-policies/payments-and-transactions.md)
 * [Returns & Refunds](nadra-policies/returns-and-refunds.md)

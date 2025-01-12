@@ -12,7 +12,7 @@ Your privacy matters to us. We want to keep it simple, clear, and totally stress
 
 ### **1. Who We Are**
 
-Nadra Marketplace Ltd is here for **You**—a trusted space for Muslim women to buy, sell, and thrive while staying true to Islaamic principles.
+Nadra is a purpose-driven platform for Muslim women, offering a trusted space to buy, sell, and connect, all while staying true to Islaamic values. We go beyond transactions by fostering two key elements that elevate the experience: a supportive community that encourages knowledge-sharing and a space built to empower growth. Focused on connection over commerce, Nadra is rooted in integrity and trust, and is committed to cultivating customer-centricity to redefine e-commerce through meaningful value, connections and thoughtfulness.
 
 When you join us, we collect some information to ensure smooth sailing on your buying and selling journey, _In shaa Allah_. Let’s break it down!
 
@@ -20,7 +20,7 @@ When you join us, we collect some information to ensure smooth sailing on your b
 
 ### **2. What Information We Collect**
 
-#### **When You Sign Up (or Sell with Us!)**
+**When You Sign Up (or Sell with Us!)**
 
 * **Personal Details**: Your name, email, and phone number.
 * **Seller Verification (to Keep Things Secure):**

@@ -1,7 +1,7 @@
 ---
 icon: memo-circle-check
 description: 'Last Updated: January 11, 2025'
-cover: ../.gitbook/assets/Slice 82.svg
+cover: ../../.gitbook/assets/Slice 82.svg
 coverY: 0
 layout:
   cover:
@@ -60,7 +60,7 @@ We’ve created Nadra to connect amazing Muslim women entrepreneurs with buyers 
 Let’s work together to maintain a safe and supportive marketplace. Here’s what **NOT** to do:
 
 * Selling items that are Haraam or unsuitable for our Muslim community.
-* Posting any offensive, discriminatory, hateful, or impermissible content. See[ <mark style="color:purple;">Permissible Posts.</mark>](../business-dealings/permissible-posts.md)
+* Posting any offensive, discriminatory, hateful, or impermissible content. See[ <mark style="color:purple;">Permissible Posts.</mark>](../../business-dealings/permissible-posts.md)
 * Using dishonesty, fraud, or deceptive practices.
 * Violating copyright or intellectual property laws.
 * Engaging in prohibited Islamic business practices like Riba (interest) or Gharar (excessive uncertainty).
@@ -80,11 +80,11 @@ We’re all about smooth deliveries (or shipping)! Here are some important detai
 * **Shipping Partners**:\
   We work with trusted logistics providers like Faramove, GIG Logistics, and Fez Delivery to make sure your products get where they need to go.
 * **Refunds**:\
-  Refund policies vary depending on the situation. For more information, check out our [<mark style="color:purple;">**Refund Policy**</mark><mark style="color:purple;">.</mark>](returns-and-refunds.md)
+  Refund policies vary depending on the situation. For more information, check out our [<mark style="color:purple;">**Refund Policy**</mark><mark style="color:purple;">.</mark>](../returns-and-refunds.md)
 * **Privacy**:\
-  We respect your privacy. Learn about how we handle your data in our [<mark style="color:purple;">**Privacy Policy**</mark><mark style="color:purple;">.</mark>](privacy-policy.md)
+  We respect your privacy. Learn about how we handle your data in our [<mark style="color:purple;">**Privacy Policy**</mark><mark style="color:purple;">.</mark>](../privacy-policy.md)
 * **Payouts:**\
-  Payouts will be processed as outlinend in our [<mark style="color:purple;">**Payments and transactions.**</mark>](payments-and-transactions.md)
+  Payouts will be processed as outlinend in our [<mark style="color:purple;">**Payments and transactions.**</mark>](../payments-and-transactions.md)
 
 ***
 
@@ -106,7 +106,7 @@ We hope to never part ways, but:
 * **Our Rights**:\
   We can suspend or terminate accounts that violate our rules or terms.
 * **Your Rights**:\
-  Think we made a mistake? Appeal any decision by contacting [<mark style="color:purple;">wecare@nadra.ng</mark>](../)<mark style="color:purple;">**.**</mark>
+  Think we made a mistake? Appeal any decision by contacting [<mark style="color:purple;">wecare@nadra.ng</mark>](../../)<mark style="color:purple;">**.**</mark>
 
 ***
 
