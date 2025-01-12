@@ -7,91 +7,63 @@ icon: cart-shopping
 
 # Shopper Terms
 
-#### **Nadra Buyer Code: Shop Smarter, Respect the Community**
+**Nadra Buyer Code: Shop Smarter, Build Community**\
+Welcome to Nadra—a marketplace where shopping isn’t just about transactions but about building trust, respect, and connection. Here’s your guide to being a thoughtful shopper and contributing to our thriving community.
 
-Welcome to Nadra—a place where shopping isn’t just a transaction; it’s an experience rooted in trust, respect, and thoughtfulness. To make every interaction a delightful one, here’s your quick guide to being the best buyer in the community. Let’s grow and thrive together!&#x20;
-
-***
-
-**1. Communicate with Care**
-
-Treat every seller like a trusted business partner. Respectful communication is key. No room for harsh words or negativity here! \
-&#xNAN;_&#x57;hy?_ Because kindness and thoughtfulness is what makes our community better. The Prophet, peace and blessings be upon him, said, “**Nothing is heavier upon the scale of a believer on the Day of Resurrection than his good character. Verily, Allah hates the vulgar and obscene.**”
-
-**Source: Sunan al-Tirmidhī 2002**
+Let’s make every interaction meaningful!
 
 ***
 
-**2. Keep It Accurate**
+#### 1. **Communicate with Care**
 
-Your delivery depends on the info you provide—double-check those details! \
-&#xNAN;_&#x57;hy?_ Prevent misplaced packages and unnecessary hiccups.
+Kindness makes everything better. Be polite and respectful in all interactions.
 
-***
+> _“Nothing is heavier on the scale of a believer on the Day of Resurrection than good character.” – Sunan al-Tirmidhī 2002_
 
-**3. Read Before You Leap**
+#### 2. **Check Twice, Deliver Right**
 
-Check the product description and seller policies before you hit buy. No surprises = happier you! \
-&#xNAN;_&#x57;hy?_ A little extra reading can save a lot of headaches later.
+Double-check your details—accurate info means smooth deliveries.
 
-***
+#### 3. **Read Before You Buy**
 
-**4. Leave Honest Reviews**
+Take a moment to review product descriptions and seller policies before you hit checkout.\
+No surprises = happier you.
 
-Tell it like it is—but be fair and constructive. Your review could make someone feel better (and guide other buyers too)! \
-&#xNAN;_&#x57;hy?_ Authenticity keeps the Nadra ecosystem thriving.
+#### 4. **Write Honest Reviews**
 
-***
+Your feedback helps everyone. Keep it fair, helpful, and constructive—it matters!
 
-**5. Respect Refund Rules**
+#### 5. **Follow Refund Guidelines**
 
-Want to return something? Follow the seller’s policies, keep it original, and act within the return window. \
-&#xNAN;_&#x57;hy?_ A fair process makes returns easy for everyone.
+Stick to the seller's return policy and keep items in their original condition.
 
-***
+#### 6. **Collaborate on Disputes**
 
-**6. Work with Us on Disputes**
+If something goes wrong, we’re here. Share your concerns, and we’ll resolve it together. <mark style="color:purple;">wecare@nadra.ng</mark>
 
-Sometimes things go awry, and that’s okay! If there’s an issue, we’re here to help. Send over the details, and we’ll work it out together. \
-&#xNAN;_&#x57;hy?_ Collaboration ensures fair outcomes for buyers and sellers.
+#### 7. **Keep Transactions on Nadra**
 
-***
+Shop and communicate through Nadra to stay safe and secure. Off-platform deals? Risky business!
 
-**7. Play by the Rules (No Sneaky Deals!)**
+#### 8. **Pick Up On Time**
 
-Keep all your transactions on Nadra where you’re protected. We’ve got your back—off-platform deals? Not so much! \
-&#xNAN;_&#x57;hy?_ Because safety and transparency matter.
+Be prompt with deliveries or pick-ups—it’s considerate and keeps things moving.
 
-***
+#### 9. **Stay Genuine**
 
-**8. Pick It Up, Enjoy It!**
+Avoid false claims, scams, or anything dishonest. Honesty builds trust for everyone.
 
-If you’re grabbing items in person or receiving deliveries, please show up or make proper arrangements on time. \
-&#xNAN;_&#x57;hy?_ Your timely pickup keeps things smooth for everyone.
+#### 10. **Honor Islaamic Values**
+
+Nadra is rooted in respect for Islaamic principles. If something doesn’t align, it’s simply not the right fit.
 
 ***
 
-**9. Keep It Real**
+#### **Why These Rules Matter**
 
-No false claims, please. Scams or fraudulent requests aren’t just unfair—they’re not welcome here. \
-&#xNAN;_&#x57;hy?_ Honesty builds trust; anything else tears it down.
+They’re crafted to:\
+✅ Ensure a seamless, protected shopping experience.\
+✅ Foster fairness for shoppers and sellers alike.\
+✅ Build a community of trust, integrity, and shared values.
 
-***
-
-**10. Stay True to Islaamic Values**
-
-We’re here for meaningful transactions rooted in respect for Islaamic ethics. Need something outside these bounds? Nadra might not be the right fit. \
-&#xNAN;_&#x57;hy?_ Because shared values create stronger connections.
-
-***
-
-#### **Why You’ll Love These Rules**
-
-They’re designed to:\
-✅ Protect your rights.\
-✅ Make your shopping journey seamless.\
-✅ Build a trusted community where buyers and sellers thrive together.
-
-***
-
-**Here at Nadra, every shopper helps shape a marketplace that’s fair, inspiring, and rooted in shared principles.** Let’s shop smarter, grow stronger, and keep kindness at the heart of commerce.💜
+At Nadra, every shopper plays a role in creating a marketplace that thrives on meaningful connections and shared principles. Together, we can redefine e-commerce—one thoughtful transaction at a time!

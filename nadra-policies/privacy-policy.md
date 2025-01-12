@@ -5,7 +5,6 @@ description: 'Last Updated: January 11, 2025'
 
 # Privacy Policy
 
-**As-Salaamu Alayki and Welcome to Nadra!**\
 Your privacy matters to us. We want to keep it simple, clear, and totally stress-free! This policy explains how we handle your information when you use Nadra Marketplace Ltd, empowering you with transparency. Ready? Let’s go! 🌟
 
 ***

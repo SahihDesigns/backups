@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-description: Sell Smarter, empowered by Knowledge That Benefits You and Your Customers.
+description: Sell Smarter, empowered by knowledge that benefits you and your customers.
 layout:
   title:
     visible: true
@@ -22,4 +22,4 @@ This space outlines our ethics, terms, and policies in alignment with the ruling
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Terms of Use</strong></td><td>The boundaries we've set.</td><td><a href=".gitbook/assets/Slice 82.svg">Slice 82.svg</a></td><td></td><td><a href="nadra-policies/terms-of-use/">terms-of-use</a></td></tr><tr><td><strong>Privacy Policy</strong></td><td>How we handle your data.</td><td><a href=".gitbook/assets/Slice 81 (1).svg">Slice 81 (1).svg</a></td><td></td><td><a href="nadra-policies/privacy-policy.md">privacy-policy.md</a></td></tr><tr><td><strong>Business  Rulings</strong></td><td>All you need to know about what's halaal and what's not in islaam.</td><td><a href=".gitbook/assets/Slice 83.svg">Slice 83.svg</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Terms of Use</strong></td><td>The boundaries we've set.</td><td><a href=".gitbook/assets/Slice 82.svg">Slice 82.svg</a></td><td></td><td><a href="nadra-policies/terms-of-use.md">terms-of-use.md</a></td></tr><tr><td><strong>Privacy Policy</strong></td><td>How we handle your data.</td><td><a href=".gitbook/assets/Slice 81 (1).svg">Slice 81 (1).svg</a></td><td></td><td><a href="nadra-policies/privacy-policy.md">privacy-policy.md</a></td></tr><tr><td><strong>Business  Rulings</strong></td><td>All you need to know about what's halaal and what's not in islaam.</td><td><a href=".gitbook/assets/Slice 83.svg">Slice 83.svg</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>

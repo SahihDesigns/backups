@@ -1,7 +1,7 @@
 ---
-icon: memo-circle-check
 description: 'Last Updated: January 11, 2025'
-cover: ../../.gitbook/assets/Slice 82.svg
+icon: memo-circle-check
+cover: ../.gitbook/assets/Slice 82.svg
 coverY: 0
 layout:
   cover:
@@ -21,9 +21,7 @@ layout:
 
 # Terms of Use
 
-### **As-Salaamu Alayki and Welcome to Nadra Marketplace Ltd!**
-
-We’re pleased to have you as part of our Founding Community! At Nadra, we aim to empower Muslim women by providing a safe, trustworthy, and Islaamically compliant space for buying and selling.
+We’re pleased to have you as part of our Founding Community! We aim to empower Muslim women by providing a safe, trustworthy, and Islaamically compliant space for buying and selling.
 
 These Terms of Use ("Terms") are the foundation of using our platform. When you sign up to use Nadra, you're agreeing to these rules, so let’s walk you through them—no confusing jargon here, just plain, simple guidelines, _in shaa Allaah!_
 
@@ -45,9 +43,12 @@ These Terms of Use ("Terms") are the foundation of using our platform. When you 
 We’ve created Nadra to connect amazing Muslim women entrepreneurs with buyers who share their values. Here's what you need to know:
 
 * **Accurate Listings**:\
-  Always describe your products truthfully and include any relevant Islamic considerations. Transparency builds trust!
+  Sellers should ensure their listings are accurate and detailed. Mention any deficiencies or important details buyers need to know. Don’t worry—Nadra will soon share tips to help you create better product descriptions!
 * **Responsibility for Inventory**:\
-  Make sure you have the products you’re listing ready to go. _P.s This does not apply to sellers who sew on demand._
+  Make sure you have the products you’re listing ready to go.&#x20;
+
+> **Hint**: This does not apply to sellers who sew on demand.
+
 * **Delivery Process**:\
   Sellers will need to deliver their items to drop-off points (or locations) specified by our logistics partners. From there, **we'll coordinate deliveries with trusted providers like** [<mark style="color:purple;">**Faramove**</mark>](https://faramove.co)**,** [<mark style="color:purple;">**GIG**</mark> ](https://giglogistics.com)**Logistics, or**[ <mark style="color:purple;">**Fez Delivery**</mark>](https://fezdelivery.co) to ensure smooth shipping!
 * **Islamic Business Practices**:\
@@ -60,14 +61,14 @@ We’ve created Nadra to connect amazing Muslim women entrepreneurs with buyers 
 Let’s work together to maintain a safe and supportive marketplace. Here’s what **NOT** to do:
 
 * Selling items that are Haraam or unsuitable for our Muslim community.
-* Posting any offensive, discriminatory, hateful, or impermissible content. See[ <mark style="color:purple;">Permissible Posts.</mark>](../../business-dealings/permissible-posts.md)
+* Posting any offensive, discriminatory, hateful, or impermissible content. See[ <mark style="color:purple;">Permissible Posts.</mark>](../business-dealings/permissible-posts.md)
 * Using dishonesty, fraud, or deceptive practices.
 * Violating copyright or intellectual property laws.
-* Engaging in prohibited Islamic business practices like Riba (interest) or Gharar (excessive uncertainty).
+* Engaging in prohibited Islamic business practices on the platform like Riba (interest) or Gharar (excessive uncertainty).
 
 If you’re ever unsure, confused or need clarity reach out to us anytime, [<mark style="color:purple;">wecare@nadra.ng.</mark>](https://mail.google.com/mail/u/0/?fs=1\&tf=cm\&source=mailto\&su=Terms+of+service+Inquiry\&to=wecare@nadra.ng\&body=As-Salaamu+Alaykum,%0D%0A%0D%0AI+would+like+to+know+more+about...)
 
-> **Note:** Drop shipping is not allowed. Let’s keep it halaal and simple!
+> **Hint:** Drop shipping is not allowed. Let’s keep it halaal and simple!
 >
 > [<mark style="color:orange;">What is drop shipping?</mark>](https://abukhadeejah.com/conditions-shuroot-of-a-correct-sale-and-purchase/)
 
@@ -80,11 +81,11 @@ We’re all about smooth deliveries (or shipping)! Here are some important detai
 * **Shipping Partners**:\
   We work with trusted logistics providers like Faramove, GIG Logistics, and Fez Delivery to make sure your products get where they need to go.
 * **Refunds**:\
-  Refund policies vary depending on the situation. For more information, check out our [<mark style="color:purple;">**Refund Policy**</mark><mark style="color:purple;">.</mark>](../returns-and-refunds.md)
+  Refund policies vary depending on the situation. For more information, check out our [<mark style="color:purple;">**Refund Policy**</mark><mark style="color:purple;">.</mark>](returns-and-refunds.md)
 * **Privacy**:\
-  We respect your privacy. Learn about how we handle your data in our [<mark style="color:purple;">**Privacy Policy**</mark><mark style="color:purple;">.</mark>](../privacy-policy.md)
+  We respect your privacy. Learn about how we handle your data in our [<mark style="color:purple;">**Privacy Policy**</mark><mark style="color:purple;">.</mark>](privacy-policy.md)
 * **Payouts:**\
-  Payouts will be processed as outlinend in our [<mark style="color:purple;">**Payments and transactions.**</mark>](../payments-and-transactions.md)
+  Payouts will be processed as outlined in our [<mark style="color:purple;">**Payments and transactions.**</mark>](payments-and-transactions.md)
 
 ***
 
@@ -106,7 +107,7 @@ We hope to never part ways, but:
 * **Our Rights**:\
   We can suspend or terminate accounts that violate our rules or terms.
 * **Your Rights**:\
-  Think we made a mistake? Appeal any decision by contacting [<mark style="color:purple;">wecare@nadra.ng</mark>](../../)<mark style="color:purple;">**.**</mark>
+  Think we made a mistake? Appeal any decision by contacting [<mark style="color:purple;">wecare@nadra.ng</mark>](../)<mark style="color:purple;">**.**</mark>
 
 ***
 
