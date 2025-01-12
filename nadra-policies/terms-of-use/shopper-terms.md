@@ -40,7 +40,7 @@ Your feedback is a significant contribution. It may help to see reviews as a too
 > <mark style="color:purple;">**Source:**</mark> [<mark style="color:purple;">**Rawdatul Uqalā page 184**</mark>](https://salaficentre.com/2017/07/10/make-excuses-fellow-muslims-abu-qilabah/)
 
 {% hint style="info" %}
-**Hint:** This doe **Not** remove seller accountability! JazakiLlaahu khaira.
+**Hint:** This does **Not** remove seller accountability! JazakiLlaahu khaira.
 {% endhint %}
 
 5\. **Follow Refund Guidelines**
