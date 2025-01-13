@@ -23,6 +23,6 @@
 
 * [The Framework](trust/the-framework.md)
 
-***
+## Got Feedback?
 
-* [Got Feedback?](got-feedback.md)
+* [Let us Know](got-feedback/let-us-know.md)
