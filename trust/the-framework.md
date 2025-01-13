@@ -22,9 +22,9 @@ In business, loving for your customer what you would love for yourself means ste
 
 ### **The Trust Dilemma: A Game of Two Outcomes**
 
-Building trust isn’t just a virtuous act; it’s an intentional choice with a predictable payoff. Yet many businesses miss this, succumbing to short-termism. They sacrifice reputation for quick profits, oblivious to the compound interest of credibility.
+Building trust isn’t just an act of virtue; it’s a deliberate choice with a clear and predictable reward. Unfortunately, many businesses lose sight of this, falling into the trap of short-term thinking. They trade away their reputation for fleeting profits, unaware that trust grows like a carefully tended garden, yielding abundant fruits over time.
 
-Think about it this way: Trust isn't free—it’s an investment. The question is, are you playing the stock market or gambling on the lottery?
+Think about it this way: Trust isn't handed out freely—it’s cultivated with care. The question is, are you nurturing a tree for its lifelong harvest or rushing to pluck unripe fruits?
 
 **Scenario One: High-Pressure Sales**
 
