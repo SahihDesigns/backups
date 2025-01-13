@@ -34,7 +34,7 @@ These Terms of Use ("Terms") are the foundation of using our platform. When you 
 * **One Account Per Person**:\
   Accounts are for personal use only—no sharing, transferring, or creating accounts for someone else.
 * **Keep It Secure**:\
-  Your account is your gateway to Nadra, so please keep your login details private. We are not responsible for for anything that happens if you fail to do so.
+  Your account is your gateway to Nadra, so please keep your login details private. We are not responsible for anything that happens if you fail to do so.
 
 ***
 
@@ -64,7 +64,7 @@ Let’s work together to maintain a safe and supportive marketplace. Here’s wh
 * Posting any offensive, discriminatory, hateful, or impermissible content. See[ <mark style="color:purple;">Permissible Posts.</mark>](../business-dealings/permissible-posts.md)
 * Using dishonesty, fraud, or deceptive practices.
 * Violating copyright or intellectual property laws.
-* Engaging in prohibited Islamic business practices on the platform like Riba (interest) or Gharar (excessive uncertainty).
+* Engaging in prohibited business practices on the platform like Riba (interest) or Gharar (excessive uncertainty).
 
 If you’re ever unsure, confused or need clarity reach out to us anytime, [<mark style="color:purple;">wecare@nadra.ng.</mark>](https://mail.google.com/mail/u/0/?fs=1\&tf=cm\&source=mailto\&su=Terms+of+service+Inquiry\&to=wecare@nadra.ng\&body=As-Salaamu+Alaykum,%0D%0A%0D%0AI+would+like+to+know+more+about...)
 
@@ -81,13 +81,13 @@ Drop shipping is not allowed. Let’s keep it halaal and simple!
 We’re all about smooth deliveries (or shipping)! Here are some important details:
 
 * **Shipping Partners**:\
-  We work with trusted logistics providers like Faramove, GIG Logistics, and Fez Delivery to make sure your products get where they need to go.
+  We will work with trusted logistics providers like Faramove, GIG Logistics, and Fez Delivery to make sure your products get where they need to go.
 * **Refunds**:\
   Refund policies vary depending on the situation. For more information, check out our [<mark style="color:purple;">**Refund Policy**</mark><mark style="color:purple;">.</mark>](returns-and-refunds.md)
 * **Privacy**:\
   We respect your privacy. Learn about how we handle your data in our [<mark style="color:purple;">**Privacy Policy**</mark><mark style="color:purple;">.</mark>](privacy-policy.md)
 * **Payouts:**\
-  Payouts will be processed as outlined in our [<mark style="color:purple;">**Payments and transactions.**</mark>](payments-and-transactions.md)
+  Payouts will be processed as outlined in our [<mark style="color:purple;">**Payments & Transactions.**</mark>](payments-and-transactions.md)
 
 ***
 
