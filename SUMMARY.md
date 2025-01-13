@@ -1,9 +1,8 @@
 # Table of contents
 
-* [As- Salaamu alaykum and Welcome Sis!](README.md)
-
 ## Getting Started
 
+* [As- Salaamu alaykum and Welcome Sis!](README.md)
 * [Quick Start](getting-started/quick-start.md)
 
 ## Nadra Policies
