@@ -114,7 +114,7 @@ Allow buyers to make informed decisions. Transparency benefits both you and them
 
 ### **The Hidden Genius of Ethical Marketing**
 
-The problem isn’t a lack of integrity—it’s the misplaced belief that integrity doesn’t sell. In reality, ethical marketing creates a self-sustaining loop:
+The problem isn’t just a lack of integrity—it’s the misplaced belief that integrity doesn’t sell. In reality, ethical marketing creates a self-sustaining loop:
 
 * Be upfront, and people reward you.
 * Create scarcity _honestly,_ and it becomes compelling.
