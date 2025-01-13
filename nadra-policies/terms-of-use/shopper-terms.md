@@ -43,7 +43,7 @@ Your feedback is a significant contribution. It may help to see reviews as a too
 This does **Not** remove seller accountability! JazakiLlaahu khaira.
 {% endhint %}
 
-5\. **Follow Refund Guidelines**
+#### 5. **Follow Refund Guidelines**
 
 Stick to the seller's return policy and keep items in their original condition.
 
