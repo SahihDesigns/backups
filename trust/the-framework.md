@@ -1,9 +1,9 @@
 ---
+icon: window-frame-open
 description: >-
   Trust is the cornerstone of meaningful relationships, transforming
   transactions into loyal connections and ensuring long-term success in this
   world and the next.
-icon: window-frame-open
 ---
 
 # The Framework
@@ -20,10 +20,7 @@ This timeless guidance extends beyond personal conduct; it applies directly to b
 
 Trust-building is the result of intentional decisions. Let’s compare two approaches:
 
-| Decision                          | Short-Term Outcome | Long-Term Outcome        |
-| --------------------------------- | ------------------ | ------------------------ |
-| Exaggerating Product Descriptions | Quick sales spike  | Loss of trust, refunds   |
-| Transparent Descriptions          | Slower start       | Loyal customers, reviews |
+<table><thead><tr><th width="297">Decision</th><th>Short-Term Outcome</th><th>Long-Term Outcome</th></tr></thead><tbody><tr><td>Exaggerating Product Descriptions</td><td>Quick sales spike</td><td>Loss of trust, refunds</td></tr><tr><td>Transparent Descriptions</td><td>Slower start</td><td>Loyal customers, reviews</td></tr></tbody></table>
 
 **Key Insight**: In the short-term, exaggeration might seem lucrative. However, businesses rooted in transparency build credibility, leading to long-lasting relationships and steady growth.
 
