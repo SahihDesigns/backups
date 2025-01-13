@@ -20,7 +20,7 @@ This timeless guidance extends beyond personal conduct; it applies directly to b
 
 Trust-building is the result of intentional decisions. Let’s compare two approaches:
 
-<table><thead><tr><th width="297">Decision</th><th>Short-Term Outcome</th><th>Long-Term Outcome</th></tr></thead><tbody><tr><td>Exaggerating Product Descriptions</td><td>Quick sales spike</td><td>Loss of trust, refunds</td></tr><tr><td>Transparent Descriptions</td><td>Slower start</td><td>Loyal customers, reviews</td></tr></tbody></table>
+<table><thead><tr><th width="297">Decision</th><th width="227">Short-Term Outcome</th><th>Long-Term Outcome</th></tr></thead><tbody><tr><td>Exaggerating Product Descriptions</td><td>Quick sales spike</td><td>Loss of trust, refunds</td></tr><tr><td>Transparent Descriptions</td><td>Slower start</td><td>Loyal customers, reviews</td></tr></tbody></table>
 
 **Key Insight**: In the short-term, exaggeration might seem lucrative. However, businesses rooted in transparency build credibility, leading to long-lasting relationships and steady growth.
 
