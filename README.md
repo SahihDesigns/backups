@@ -1,17 +1,6 @@
 ---
 icon: hand-wave
 description: Sell Smarter, empowered by knowledge that benefits you and your customers.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # As- Salaamu alaykum and Welcome Sis!

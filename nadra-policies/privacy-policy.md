@@ -54,7 +54,7 @@ Here’s how we take care of your data:
 We only share what’s absolutely needed, like:
 
 * **Trusted Partners**: For logistics (📦) and secure payments. We’re working to include options like **Faramove**, **GIG Logistics**, and **FEZ Delivery**—stay tuned!
-* **When Required by Law**: If law enforcement asks, and we have to comply.
+* **When Required by Law**: If law enforcement asks, we have to comply.
 
 ***
 
