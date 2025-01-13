@@ -55,7 +55,9 @@ Once your account is set up, it's time to create your store. This is your chance
 
 This is where your shop begins! You’re one step closer to showcasing your products.
 
-> **Tip**: Transparency is important. Make sure to list clear, honest product descriptions and prices.
+{% hint style="info" %}
+Transparency is important. Make sure to list clear, honest product descriptions and prices.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/Slice 32.png" alt="nadra seller"><figcaption><p>Your Cozy Seller Dashboard</p></figcaption></figure>
 

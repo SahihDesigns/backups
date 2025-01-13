@@ -1,6 +1,6 @@
 ---
-description: 'Last Updated: January 11, 2025'
 icon: memo-circle-check
+description: 'Last Updated: January 11, 2025'
 cover: ../.gitbook/assets/Slice 82.svg
 coverY: 0
 layout:
@@ -34,7 +34,7 @@ These Terms of Use ("Terms") are the foundation of using our platform. When you 
 * **One Account Per Person**:\
   Accounts are for personal use only—no sharing, transferring, or creating accounts for someone else.
 * **Keep It Secure**:\
-  Your account is your gateway to Nadra, so please keep your login details private. Anything that happens on your account is your responsibility.
+  Your account is your gateway to Nadra, so please keep your login details private. We are not responsible for for anything that happens if you fail to do so.
 
 ***
 
@@ -43,16 +43,16 @@ These Terms of Use ("Terms") are the foundation of using our platform. When you 
 We’ve created Nadra to connect amazing Muslim women entrepreneurs with buyers who share their values. Here's what you need to know:
 
 * **Accurate Listings**:\
-  Sellers should ensure their listings are accurate and detailed. Mention any deficiencies or important details buyers need to know. Don’t worry—Nadra will soon share tips to help you create better product descriptions!
+  Sellers should ensure their listings are accurate and detailed. Kindly mention any deficiencies or important details buyers need to know. Don’t worry—Nadra will soon share tips to help you create better product descriptions!
 * **Responsibility for Inventory**:\
   Make sure you have the products you’re listing ready to go.&#x20;
 
-> **Hint**: This does not apply to sellers who sew on demand.
+{% hint style="info" %}
+This does not apply to sellers who sew on demand.
+{% endhint %}
 
 * **Delivery Process**:\
   Sellers will need to deliver their items to drop-off points (or locations) specified by our logistics partners. From there, **we'll coordinate deliveries with trusted providers like** [<mark style="color:purple;">**Faramove**</mark>](https://faramove.co)**,** [<mark style="color:purple;">**GIG**</mark> ](https://giglogistics.com)**Logistics, or**[ <mark style="color:purple;">**Fez Delivery**</mark>](https://fezdelivery.co) to ensure smooth shipping!
-* **Islamic Business Practices**:\
-  Your store and listings should align with Islamic principles and all applicable UK, Nigerian, and international laws.
 
 ***
 
@@ -68,9 +68,11 @@ Let’s work together to maintain a safe and supportive marketplace. Here’s wh
 
 If you’re ever unsure, confused or need clarity reach out to us anytime, [<mark style="color:purple;">wecare@nadra.ng.</mark>](https://mail.google.com/mail/u/0/?fs=1\&tf=cm\&source=mailto\&su=Terms+of+service+Inquiry\&to=wecare@nadra.ng\&body=As-Salaamu+Alaykum,%0D%0A%0D%0AI+would+like+to+know+more+about...)
 
-> **Hint:** Drop shipping is not allowed. Let’s keep it halaal and simple!
->
-> [<mark style="color:orange;">What is drop shipping?</mark>](https://abukhadeejah.com/conditions-shuroot-of-a-correct-sale-and-purchase/)
+{% hint style="info" %}
+Drop shipping is not allowed. Let’s keep it halaal and simple!
+
+[<mark style="color:orange;">What is drop shipping?</mark>](https://abukhadeejah.com/conditions-shuroot-of-a-correct-sale-and-purchase/)
+{% endhint %}
 
 ***
 
@@ -96,7 +98,9 @@ To keep things running smoothly, we have additional internal guidelines, don't f
 * These policies may change as we grow, but we’ll always try our best notify you about updates.
 * Breaking the rules may lead to temporary suspension or permanent removal from the platform.
 
-> Always refer to the most recent version of our Terms for updates.
+{% hint style="info" %}
+Always refer to the most recent version of our Terms for updates.
+{% endhint %}
 
 ***
 
