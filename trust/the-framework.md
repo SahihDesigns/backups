@@ -26,9 +26,11 @@ Building trust isn’t just an act of virtue; it’s a deliberate choice with a 
 
 Think about it this way: Trust isn't handed out freely—it’s cultivated with care. The question is, are you nurturing a tree for its lifelong harvest or rushing to pluck unripe fruits?
 
+Let me break this down with a real-world example contrasting transactional versus relationship-based selling.
+
 **Scenario One: High-Pressure Sales**
 
-Imagine a salesperson’s pitch, focused entirely on closing a deal:
+Imagine a salesperson’s pitch, focused entirely on closing a sale:
 
 * **Pushiest practices:** “Limited offer! Buy now!”
 * **No empathy:** Doesn’t consider your budget, needs, or comfort.
@@ -43,55 +45,6 @@ Contrast that with a salesperson who treats you like a partner, not prey:
 * **Outcome:** Customers walk away with exactly what they need. They’re likely to return, refer friends, and spread positive word-of-mouth.
 
 The first approach forces people to make _a choice_. The second builds a connection so strong, it makes choosing feel inevitable.
-
-***
-
-Let me break this down with a real-world example contrasting transactional versus relationship-based selling.
-
-#### **The Transactional Sales Approach (Common Experience)**: Imagine walking into a phone store...
-
-Salesperson: "Hi! We have a great deal on the latest iPhone today!"
-
-* Immediately pushes the most expensive option
-* Doesn't ask about your needs or current phone
-* Interrupts your questions with features you didn't ask about
-* Gets visibly frustrated when you want to think about it
-* Pressures you with "This deal ends today!"
-* Disappears after the sale is made
-
-Result:
-
-* You feel pressured, not helped
-* May buy something you don't need
-* Unlikely to return or recommend
-* You don't feel good about it
-
-#### Ethical Sales (Building Trust): Same phone store, different approach...
-
-Salesperson: "Welcome! What brings you in today?"
-
-* Listens to your current situation
-* Asks about your phone usage habits
-* "What features matter most to you?"
-* "What's your budget comfort zone?"
-* Might even recommend a cheaper option that better suits your needs
-* "Here's my card - take time to think about it"
-* Follows up after purchase to ensure satisfaction
-* Sells you something you actually want
-
-Result:
-
-* You feel understood and respected
-* Make an informed decision
-* Likely to return and recommend
-* Become a long-term customer
-* Trust the salesperson's future recommendations
-
-**The Outcome**
-
-"I bought a phone I didn't need because the salesperson pressured me" vs. "My phone salesperson saved me money by recommending what I actually needed"
-
-Think about your own experiences - which salesperson would **you** return to?
 
 {% hint style="info" %}
 Sales, when done right, is less about persuading people and more about understanding them. It’s an art of listening closely, asking questions that spark curiosity, and approaching the entire process with the patience of a good story. Ultimately, it's not about selling — it's about helping people realize what they didn't know they needed.
