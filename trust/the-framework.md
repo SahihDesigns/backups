@@ -47,7 +47,7 @@ Contrast that with a salesperson who treats you like a partner, not prey:
 The first approach forces people to make _a choice_. The second builds a connection so strong, it makes choosing feel inevitable.
 
 {% hint style="info" %}
-Sales, when done right, is less about persuading people and more about understanding them. It’s an art of listening closely, asking questions that spark curiosity, and approaching the entire process with the patience of a good story. Ultimately, it's not about selling — it's about helping people realize what they didn't know they needed.
+Sales, when done right, is less about persuading people and more about understanding them. It’s an art of listening closely, asking questions that spark curiosity, and approaching the entire process with patience. Ultimately, it's not about selling — it's about helping people realize what they didn't know they needed.
 {% endhint %}
 
 ***
@@ -99,7 +99,7 @@ Make policies fair and simple. Ever notice how the easiest brands to trust are o
 
 ### **Marketing without Integrity**
 
-Ethical marketing is about fostering genuine relationships with customers, not manipulating them for immediate gain. Many businesses fall into the trap of prioritizing transactions over trust, resulting in practices many of us do not even realize is wrong:
+Ethical marketing is about fostering genuine relationships with customers, not manipulating them for immediate gain. Many businesses fall into the trap of prioritizing transactions over trust, resulting in practices many of us do not even realize is impermissible:
 
 1. **False Scarcity Tactics**: Using deceptive Fear of Missing Out (FOMO) strategies to push urgency.
    * **Example**: Limited-time offers that aren't limited, or fake low-stock notifications.
@@ -114,9 +114,9 @@ Allow buyers to make informed decisions. Transparency benefits both you and them
 
 ### **The Hidden Genius of Ethical Marketing**
 
-The problem isn’t just a lack of integrity—it’s the misplaced belief that integrity doesn’t sell. In reality, ethical marketing creates a self-sustaining loop:
+The problem isn’t just a lack of integrity—it’s the misplaced belief that integrity doesn’t sell. In reality, marketing with integrity creates a self-sustaining loop:
 
-* Be upfront, and people reward you.
+* Be upfront, and you'll be rewarded.
 * Create scarcity _honestly,_ and it becomes compelling.
 
 Ultimately, trust isn’t a “soft skill” for sales—it’s the lever that shifts everything else. People don't remember what you sell them. They remember how they feel when you sell it.
