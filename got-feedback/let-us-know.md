@@ -4,7 +4,7 @@ description: Let us know how helpful this was.
 
 # Let us Know
 
-{% @formspree/formspree fullWidth="false" %}
+{% embed url="https://forms.gle/2gHUjDksMV49dNZM9" %}
 
 
 
