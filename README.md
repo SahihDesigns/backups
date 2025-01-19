@@ -1,13 +1,15 @@
 ---
 icon: hand-wave
-description: Sell Smarter, empowered by knowledge that benefits you and your customers.
+description: Sell smarter, empowered by knowledge that benefits you and your customers.
 ---
 
 # As- Salaamu alaykum and Welcome Sis!
 
-AlhamduliLlaah. We are committed to creating a platform where Islaamic business rulings guide every action _In shaa Allaah_. We inspire to build our marketplace on the foundation of trust, fairness, and empowerment for Muslim women entrepreneurs.&#x20;
+You deserve more than just a marketplace - you deserve a space built on Integrity, thoughtfulness, and shared values that matter to you. Whether you’re here to sell or shop, Nadra is about creating meaningful connections guided by Islaam.
 
-This space outlines our ethics, terms, and policies in alignment with the rulings of Islaam, providing sellers with the knowledge and confidence to conduct business in a way that supports both their prosperity and the greater community.
+This page is your guide to a platform that inspires clarity, confidence, and barakah in every transaction, _In shaa Allah._
+
+Discover the ethics, terms, and policies that ensure your business aligns with Islaamic rulings—empowering your success and uplifting the community.
 
 ### Jump right in
 
