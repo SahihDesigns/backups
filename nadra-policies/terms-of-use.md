@@ -115,7 +115,7 @@ We hope to never part ways, but:
 
 **Your Rights:**
 
-* Believe we’ve made an error in judgment? You have the right to appeal any decision and will be given the opportunity for a review. Please contact us at **wecare@nadra.ng**, where we are committed to listening and considering your case.
+* Believe we’ve made an error in judgment? You have the right to appeal any decision and will be given the opportunity for a review. Please contact us at <mark style="color:purple;">**wecare@nadra.ng**</mark>, where we are committed to listening and considering your case.
 
 ***
 
