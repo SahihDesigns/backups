@@ -1,6 +1,6 @@
 ---
 icon: memo-circle-check
-description: 'Last Updated: January 11, 2025'
+description: 'Last Updated: January 22, 2025'
 cover: ../.gitbook/assets/Slice 82.svg
 coverY: 0
 layout:
@@ -108,10 +108,14 @@ Always refer to the most recent version of our Terms for updates.
 
 We hope to never part ways, but:
 
-* **Our Rights**:\
-  We can suspend or terminate accounts that violate our rules or terms.
-* **Your Rights**:\
-  Think we made a mistake? Appeal any decision by contacting [<mark style="color:purple;">wecare@nadra.ng</mark>](../)<mark style="color:purple;">**.**</mark>
+**Our Rights:**
+
+* We reserve the right to suspend or terminate accounts that do not adhere to our [<mark style="color:purple;">**terms of use**</mark>](terms-of-use.md#id-3.-prohibited-activities) or **ethical guidelines**.
+* Violations of these policies may involve actions that harm the community or hinder our long-term goals of sustainable, respectful growth. This includes unethical behavior such as fraud, dishonest advertising, or actions that compromise the trust and well-being of other users.
+
+**Your Rights:**
+
+* Believe we’ve made an error in judgment? You have the right to appeal any decision and will be given the opportunity for a review. Please contact us at **wecare@nadra.ng**, where we are committed to listening and considering your case.
 
 ***
 

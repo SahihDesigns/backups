@@ -11,7 +11,7 @@ Welcome to Nadra - a marketplace designed to turn every interaction into a meani
 
 ***
 
-#### 1. **Communicate with Care**
+1\. **Communicate with Care**
 
 Kindness makes everything better. Be polite and respectful in all interactions.
 
