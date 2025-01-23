@@ -19,9 +19,9 @@
 * [Buying & Selling](business-dealings/buying-and-selling.md)
 * [Permissible Posts](business-dealings/permissible-posts.md)
 
-## Trust
+## Transformational Sales
 
-* [The Framework](trust/the-framework.md)
+* [The Framework](transformational-sales/the-framework.md)
 
 ## Got Feedback?
 
