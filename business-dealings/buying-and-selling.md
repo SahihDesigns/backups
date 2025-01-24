@@ -1,6 +1,9 @@
 ---
 icon: sellcast
-description: Quick Overview.
+description: >-
+  Then when the (Jumu‘ah) Salât (prayer) is ended, you may disperse through the
+  land, and seek the Bounty of Allâh (by working, etc.), and remember Allâh
+  much: that you may be successful. — 62:10
 ---
 
 # Buying & Selling

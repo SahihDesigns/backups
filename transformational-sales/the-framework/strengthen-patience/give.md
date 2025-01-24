@@ -1,7 +1,7 @@
 ---
 description: >-
-  Don't be too overly focused on money, remember, money is not what you actually
-  want, it is the means to getting what you actually want.
+  Don't be too focused on money, remember, money is not what you actually want,
+  it is the means to getting what you want. And success lies in contentment.
 ---
 
 # Give

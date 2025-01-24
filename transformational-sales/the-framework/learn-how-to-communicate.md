@@ -8,7 +8,7 @@ description: 'Say It Better: The Art of Clear, Honest Conversations'
 
 #### **Step 1: Simplify Your Words**
 
-* Focus on one message at a time—confusion dissolves trust.
+* Focus on one message at a time — confusion dissolves trust.
 * Avoid “smart speak.” Customers don’t need to feel like they’re back in school; they need clarity.
 
 #### **Step 2: Use Storytelling to Persuade**
