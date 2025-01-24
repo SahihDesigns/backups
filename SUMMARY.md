@@ -21,7 +21,12 @@
 
 ## Transformational Sales
 
-* [The Framework](transformational-sales/the-framework.md)
+* [The Framework](transformational-sales/the-framework/README.md)
+  * [Build - The Etiquette of Selling](transformational-sales/the-framework/build-the-etiquette-of-selling.md)
+  * [Learn - How to Communicate](transformational-sales/the-framework/learn-how-to-communicate.md)
+  * [Strengthen - Patience](transformational-sales/the-framework/strengthen-patience/README.md)
+    * [Ask](transformational-sales/the-framework/strengthen-patience/ask.md)
+    * [Give](transformational-sales/the-framework/strengthen-patience/give.md)
 
 ## Got Feedback?
 
