@@ -1,13 +1,15 @@
 ---
 description: >-
-  The First Impression: Building Trust, Not Just Transactions. These following
-  sections are designed to be simple and actionable, giving you what you need
-  and eliminating what you don't.
+  Every business has a unique identity, even if they offer similar products. By
+  helping you find your own distinct value, we empower you to stand out in your
+  own authentic way.
 ---
 
 # Build - The Etiquette of Selling
 
 ### **Approaching a Customer or Sale (Building Trust and Connection)**
+
+The First Impression: Building Trust, Not Just Transactions. These following sections are designed to be simple and actionable, giving you what you need and eliminating what you don't.
 
 * Your first impression isn’t about selling but showing empathy and understanding. Focus on what the customer values most.
 
