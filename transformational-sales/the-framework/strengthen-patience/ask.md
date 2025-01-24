@@ -1,7 +1,7 @@
 ---
 description: >-
   We highly recommend Practicing Active Listening; It will Help you in Various
-  Corners of Life In shaa Allaah.
+  Corners of Life.
 ---
 
 # Ask

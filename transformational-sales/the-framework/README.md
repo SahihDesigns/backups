@@ -121,7 +121,7 @@ The problem isn’t just a lack of integrity—it’s the misplaced belief that 
 
 Ultimately, trust isn’t a “soft skill” for sales—it’s the lever that shifts everything else. People don't remember what you sell them. They remember how they feel when you sell it.
 
-So the question is: Are you playing the short game for profits, or the long game for prosperity?
+So, the question is: Are you playing the short game for profits, or the long game for prosperity?
 
 ***
 
