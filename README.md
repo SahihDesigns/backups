@@ -5,11 +5,23 @@ description: Sell smarter, empowered by knowledge that benefits you and your cus
 
 # As- Salaamu alaykum and Welcome Sis!
 
-You deserve more than just a marketplace - you deserve a space built on Integrity, thoughtfulness, and shared values that matter to you. Whether you’re here to sell or shop, Nadra is about creating meaningful connections guided by Islaam.&#x20;
+Nadra isn't just another marketplac&#x65;**.** It’s a space designed for Muslim women entrepreneurs who want to sell with confidence, uphold ethics, and build trust with their customers.
 
-This page is your guide to a platform that inspires clarity, confidence, and barakah in every transaction, _In shaa Allah._
+**Why Nadra?**
 
-Discover the ethics, terms, and policies that ensure your business aligns with Islaamic rulings—empowering your success and uplifting the community.
+* A marketplace built on values - where every sale is made with clarity, purpose, and barakah _In shaa Allaah._
+* A space where your success uplifts the community - through fair, ethical, and rewarding transactions.
+* More than selling **-** it’s about meaningful connections, strong business principles, and aligned intentions.
+
+&#x20;**Start Here**\
+This page is your guide to selling with clarity, confidence, and consistency **-** while ensuring your business follows Islaamic principles in every transaction.
+
+&#x20;**Discover:**\
+The ethics, terms, and policies that protect your business & customers.\
+&#x20;A clear framework for honest, high-value selling.\
+&#x20;How Nadra helps you grow **-** without compromising on your values.
+
+**Let’s Begin**: Your path to ethical, profitable selling starts **now.**
 
 ### Jump right in
 
