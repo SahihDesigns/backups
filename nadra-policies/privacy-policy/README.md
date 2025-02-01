@@ -1,6 +1,6 @@
 ---
 icon: lock
-description: 'Last Updated: January 11, 2025'
+description: 'Last Updated: February, 2025'
 ---
 
 # Privacy Policy
@@ -11,9 +11,9 @@ Your privacy matters to us. We want to keep it simple, clear, and totally stress
 
 ### **1. Who We Are**
 
-Nadra is a purpose-driven platform for Muslim women, offering a trusted space to buy, sell, and connect, all while staying true to Islaamic values. We go beyond transactions by fostering two key elements that elevate the experience: a supportive community that encourages knowledge-sharing and a space built to empower growth. Focused on connection over commerce, Nadra is rooted in integrity and trust, and is committed to cultivating customer-centricity to redefine e-commerce through meaningful value, connections and thoughtfulness.
+Nadra is a purpose-driven platform for Muslim women, offering a trusted space to buy, sell, and connect while upholding Islaamic values. We focus on community, knowledge-sharing, and empowering growth. With integrity at our core, Nadra redefines e-commerce by prioritizing meaningful connections and customer-centricity.&#x20;
 
-When you join us, we collect some information to ensure smooth sailing on your buying and selling journey, _In shaa Allah_. Let’s break it down!
+When you join, we collect some information to ensure a smooth experience on your buying and selling journey, _In shaa Allah_. Let’s break it down.
 
 ***
 
@@ -23,16 +23,19 @@ When you join us, we collect some information to ensure smooth sailing on your b
 
 * **Personal Details**: Your name, email, and phone number.
 * **Seller Verification (to Keep Things Secure):**
-  * ID proof: Government-issued (like passports or IDs).
-  * Business proof: CAC certificate (for sellers).
-  * Bank info: For smooth, secure payments (sellers).
-* **Product Listings**: Descriptions, images, and prices you share.
+  * **ID Proof**: Government-issued identification (e.g., Passport, Driving Licence, or National ID).
+  * **Business Proof**:
+    * For Nigeria: CAC Certificate (Corporate Affairs Commission).
+    * For the UK: Company Registration Certificate (issued by Companies House)
+  * **Bank info**:&#x20;
+    * **Payment Information (Sellers)**: We collect payment details to ensure secure and smooth transactions for sellers.
+  * **Product Listings**:  Information you share, including product descriptions, images, and prices.
 
 #### **When You Use the Platform**
 
 * **Browsing Data**: Products you click on or buy.
 * **Device Info**: Things like your browser and location.
-* **Cookies**: Tiny data bits that help us remember your preferences and make your experience awesome.
+* **Cookies**: Tiny data bits that help us remember your preferences and make your experience awesome!
 
 ***
 
@@ -60,7 +63,7 @@ We only share what’s absolutely needed, like:
 
 ### **5. Keeping Your Data Safe**
 
-We use the best tools and practices to protect your information, but hey, even the best security can’t promise 100% safety from breaches. That said, we’re always on guard to safeguard what you share with us. 💪
+We will try our best to use the best tools and practices to protect your information, but hey, even the best security can’t promise 100% safety from breaches. That said, we’re always on guard to safeguard what you share with us. 💪
 
 ***
 
@@ -81,7 +84,7 @@ Just drop us an email at [<mark style="color:purple;">wecare@nadra.ng</mark>](ht
 
 ### **7. Children’s Privacy**
 
-If you’re under 13, grab your parent’s or guardian’s permission first before signing up. We don’t knowingly collect info from you.
+If you're under 13, please ensure you have your parent's or guardian's permission before signing up. We don’t knowingly collect personal information from children under 13, in accordance with relevant laws, including the Children’s Online Privacy Protection Act (COPPA). We respect your privacy and ensure that we only collect the information needed to help you engage safely on our platform.
 
 ***
 
@@ -97,5 +100,5 @@ Have concerns or ideas about how we handle your privacy? Email us at <mark style
 
 JazaakiLlaah khaira for trusting Nadra. You’re the heart of our platform, and your privacy is part of our commitment. 🌸
 
-[^1]: hint, hint: wecare@nadra.ng or team@nadra.ng
+[^1]: hint: wecare@nadra.ng or team@nadra.ng
 

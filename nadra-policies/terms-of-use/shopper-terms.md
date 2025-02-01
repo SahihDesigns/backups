@@ -7,7 +7,7 @@ description: >-
 
 # Shopper Terms
 
-Welcome to Nadra - a marketplace designed to turn every interaction into a meaningful exchange. Shopping here isn’t just about purchases - it’s about building trust, respect, and community. Here’s how you can shop smarter and help create a space of integrity.
+Welcome to Nadra—a marketplace designed to turn every interaction into a meaningful experience. Shopping here isn’t just about purchases—it’s about building trust, respect, and community. Here’s how you can shop smarter and help create a space of integrity.
 
 ***
 
@@ -20,7 +20,7 @@ Kindness makes everything better. Be polite and respectful in all interactions.
 **2. Double-Check Your Details**\
 Accuracy ensures smooth deliveries for both you and the seller.
 
-**3. Read Before You Buy**\
+**3. Read Before You Purchase**\
 Take the time to review product details and seller policies—no surprises make for a happier experience.
 
 **4. Share Honest Reviews**\
