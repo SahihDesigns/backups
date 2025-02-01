@@ -105,7 +105,7 @@ We hope to never part ways, but:
 
 **Our Rights:**
 
-* We reserve the right to suspend or terminate accounts that do not adhere to our [<mark style="color:purple;">**terms of use**</mark>](terms-of-use.md#id-3.-prohibited-activities) or [<mark style="color:purple;">**ethical**</mark>](../transformational-sales/the-framework/) **guidelines&#x20;**<mark style="color:red;">**|**</mark> [<mark style="color:purple;">**Learn more**</mark>](broken-reference)<mark style="color:purple;">**.**</mark>
+* We reserve the right to suspend or terminate accounts that do not adhere to our [<mark style="color:purple;">**terms of use**</mark>](terms-of-use.md#id-3.-prohibited-activities) or Nadra [<mark style="color:purple;">**ethic**</mark>](../transformational-sales/the-framework/)<mark style="color:purple;">**s**</mark>  <mark style="color:red;">**|**</mark> [<mark style="color:purple;">**Learn more**</mark>](broken-reference)<mark style="color:purple;">**.**</mark>
 * Violations of these policies may involve actions that harm the community or hinder our long-term goals of sustainable, respectful growth. This includes unethical behavior such as fraud, dishonest advertising, or actions that compromise the trust and well-being of other users.
 
 **Your Rights:**

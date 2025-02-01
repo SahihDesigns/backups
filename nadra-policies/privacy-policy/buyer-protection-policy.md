@@ -1,13 +1,13 @@
 ---
-description: Updated in February 2025
 icon: shield-exclamation
+description: At Nadra Marketplace, ethics guide every transaction.
 ---
 
 # Buyer Protection policy
 
 #### Buyer Protection and Data Privacy
 
-At Nadra, we prioritize your privacy and the security of your data throughout your shopping experience. Our platform is designed to foster trust and peace of mind for both shoppers and sellers. Here’s a breakdown of how we protect your data and what to expect when shopping with us:
+Nadra prioritizes your privacy and the security of your data throughout your shopping experience. Our platform is designed to foster trust and peace of mind for both shoppers and sellers. Here’s a breakdown of how we protect your data and what to expect when shopping with us:
 
 #### 1. Information We Collect
 

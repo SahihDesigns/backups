@@ -125,4 +125,4 @@ So, the question is: Are you playing the short game for profits, or the long gam
 
 ***
 
-We hope this framework helps reminds you —and us to be conscious of our actions. May Allaah make it easy for you and us.
+We hope Nadra’s Framework for Ethical Muslim Commerce helps reminds you —and us to be conscious of our actions. May Allaah make it easy for you and us.
