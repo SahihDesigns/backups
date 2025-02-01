@@ -20,14 +20,14 @@
 * [Buying & Selling](business-dealings/buying-and-selling.md)
 * [Permissible Posts](business-dealings/permissible-posts.md)
 
-## Transformational Sales
+## Nadra Framework
 
-* [The Framework](transformational-sales/the-framework/README.md)
-  * [Build - The Etiquette of Selling](transformational-sales/the-framework/build-the-etiquette-of-selling.md)
-  * [Learn - How to Communicate](transformational-sales/the-framework/learn-how-to-communicate.md)
-  * [Strengthen - Patience](transformational-sales/the-framework/strengthen-patience/README.md)
-    * [Ask](transformational-sales/the-framework/strengthen-patience/ask.md)
-    * [Give](transformational-sales/the-framework/strengthen-patience/give.md)
+* [The Framework](nadra-framework/the-framework/README.md)
+  * [Build - The Etiquette of Selling](nadra-framework/the-framework/build-the-etiquette-of-selling.md)
+  * [Learn - How to Communicate](nadra-framework/the-framework/learn-how-to-communicate.md)
+  * [Strengthen - Patience](nadra-framework/the-framework/strengthen-patience/README.md)
+    * [Ask](nadra-framework/the-framework/strengthen-patience/ask.md)
+    * [Give](nadra-framework/the-framework/strengthen-patience/give.md)
 
 ## Got Feedback?
 
