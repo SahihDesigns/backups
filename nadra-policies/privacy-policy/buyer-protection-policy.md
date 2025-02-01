@@ -3,7 +3,7 @@ icon: shield-exclamation
 description: At Nadra Marketplace, ethics guide every transaction.
 ---
 
-# Buyer Protection policy
+# Buyer Protection Policy
 
 #### Buyer Protection and Data Privacy
 
@@ -27,13 +27,13 @@ We’re committed to keeping your information safe. Your data is securely stored
 
 While we don’t have official partnerships, we work with some awesome services to make sure your data and payments stay safe:
 
-🌐 **Cloudflare**: Think of Cloudflare as a superhero that protects our website! It shields us from online attacks, speeds up the site, and keeps your data safe while it travels through the internet.
+🌐 **Cloudflare**: Think of Cloudflare as a **guardian** for our website! It stands watch to protect us from online threats, keeps things running fast, and ensures your data stays safe as it moves across the internet.
 
 🗄️ **Supabase**: Supabase is like a super-organized digital locker, where all your important info is stored safely. They make sure everything is secure and easy to access, only when needed.
 
 💳 **Flutterwave**: Flutterwave is our trusted helper for smooth and safe payments. It makes sure your money moves safely from your pocket to the seller’s, with no worries!
 
-For more details on how these services protect your info, you can check out their privacy policies:
+For more details on how these services guard and protect your info, you can check out their privacy policies:
 
 * [<mark style="color:purple;">Cloudflare</mark>](https://www.cloudflare.com/privacypolicy/)&#x20;
 * [<mark style="color:purple;">Supabase</mark> ](https://supabase.com/privacy)
