@@ -51,4 +51,6 @@ We don’t have an official dispute resolution process just yet, but we are work
 
 By shopping on Nadra, you have the right to request access, correction, or deletion of your personal data in accordance with our terms of use <mark style="color:red;">**|**</mark> [<mark style="color:purple;">Learn more</mark>](../terms-of-use.md). We’re committed to respecting your rights and maintaining transparency regarding your information.
 
+***
+
 Thank you for trusting Nadra. We’re here to ensure your experience is secure, seamless, and, most importantly, enjoyable!

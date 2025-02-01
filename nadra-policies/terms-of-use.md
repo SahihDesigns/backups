@@ -23,7 +23,7 @@ layout:
 
 We’re excited to have you on board as we work to empower Muslim women by offering a safe, trustworthy, and Islaamically compliant space for buying and selling.
 
-These Terms of Use ("Terms") are the foundation of using our platform. When you sign up to use **Nadra Marketplace Ltd (hereinafter "Nadra")**, you're agreeing to abide by these **standards**, so let’s walk you through them—no confusing jargon here, just plain, simple guidelines, in shaa Allaah!
+These Terms of Use ("Terms") are the foundation of using our platform. When you sign up to use **Nadra Marketplace Ltd (hereinafter "Nadra" "We" "Us" "Our")**, you're agreeing to abide by these **standards**, so let’s walk you through them—no confusing jargon here, just plain, simple guidelines, in shaa Allaah!
 
 ***
 
