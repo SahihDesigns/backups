@@ -28,7 +28,7 @@ The Warriors were the pushy salespeople that exist in every culture - from the p
 
 These sellers treat commerce like warfare, where every customer was a target to be worn down. The really concerning part? Many didn't even believe in their products. They'd pressure someone into buying that knockoff designer bag "this is original, check am na", or that questionable used car, using the same tactics worldwide: fake scarcity ("Last one in stock!"), guilt trips ("This thing will suit you well"), and relentless pursuit. Their aggressive energy was universal and exhausting. These were the sellers who made shopping feel like surviving an ambush, leaving customers feeling relieved when they escaped, rather than satisfied with their purchase.
 
-Finally, we have the Safe Players. Think of them as the[ cover bands ](#user-content-fn-1)[^1]of the business world - they stuck to selling familiar products in familiar ways. While this wasn't necessarily bad (after all, people do need reliable places to buy everyday items), they missed opportunities to innovate or stand out.
+Finally, we have the Safe Players. Think of them as the [cover bands](#user-content-fn-1)[^1] of the business world - they stuck to selling familiar products in familiar ways. While this wasn't necessarily bad (after all, people do need reliable places to buy everyday items), they missed opportunities to innovate or stand out.
 
 {% hint style="info" %}
 Business isn’t about forcing your desires onto the world, nor is it about hiding in the safety of the familiar. It’s about finding that moment when your offering and the customer's need align. Listen closely, the market is clearer than you think.
