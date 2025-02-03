@@ -6,7 +6,7 @@ description: '"To the degree that you are sold, you will sell". - Grant'
 
 > Imām ʿAbd al-Raḥmān ibn Nāṣir al-Saʿdī may Allāh have mercy on him said that scholars differ on the best occupation, with some favoring farming, trade, or craftsmanship. However, the most beneficial occupation is that which serves humanity the most, as stated in the ḥadīth: "Aspire and strive towards that which is beneficial to you and seek Allāh’s aid (and do not feel helpless)."
 >
-> [<mark style="color:purple;">Source: Bahjah Qulūb al-Abrār: 44-5 Translated by: Riyāḍ al-Kanadī</mark>](https://www.troid.org/which-occupation-should-the-muslim-seek/)
+> [<mark style="color:purple;">Source: Bahjah Qulūb al-Abrār: 44-5 | Translated by: Riyāḍ al-Kanadī</mark>](https://www.troid.org/which-occupation-should-the-muslim-seek/)
 
 In the bustling streets of West Africa where I grew up, business wasn't just business - it was survival. Every sale felt like a desperate push against rejection, every pitch a forceful intrusion into uninterested lives. This relentless game of survival painted such a distasteful picture of entrepreneurship that I found myself recoiling from it entirely. Like many others, I had been sold a version of business that left nothing but discomfort in its wake.&#x20;
 
