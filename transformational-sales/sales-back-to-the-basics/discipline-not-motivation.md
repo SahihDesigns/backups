@@ -22,4 +22,4 @@ Many entrepreneurs think they need motivation to succeed, but the truth is **dis
 
 Focus on the journey and effort (your actions, which are in your control) don't bother wasting your time or energy on things that aren't within your control (people's actions or the results). Again, Focus on the journey and goal not the results or outcome. A lot of us were raised this way but we can do better. And success is from Allaah.
 
-_Remember_: This is just a guide; **you** are the one who will put in the effort to make it happen.  Success starts with **you.**
+_Remember:_ This is just a guide; **you** are the one who will put in the effort to make it happen. Success starts with **you.**
