@@ -1,6 +1,12 @@
+---
+description: >-
+  "The ones who think they are crazy enough to change the world, are the ones
+  who usually do"
+---
+
 # Seller Market-Fit & Offer Market-Fit
 
-To succeed in selling, you need two basic things in shaa Allaah:
+To succeed in selling, you need two basic things _in shaa Allaah_:
 
 * **Seller Market-Fit:** Do you, as a seller, align with your product and its value?
 * **Offer Market-Fit:** Does your product align with the needs of the people you serve?
@@ -18,11 +24,11 @@ To succeed in selling, you need two basic things in shaa Allaah:
    * Who needs your product?
    * What are their pain points?
    * What goals do they have, and how does your offer help them achieve their desired outcome?
-   * Don’t just find your target audience—study them, engage with them, and build solutions around them. Talk. To. Your. Customers.
+   * Don’t just find your target audience - study them, engage with them, and build solutions around them. Talk. To. Your. Customers.
 
 ***
 
-#### **Actionable Exercise**
+#### <mark style="color:blue;">**Actionable Exercise**</mark>
 
 **1. List three ways you can give more value to your audience without lowering your prices.**
 
@@ -34,6 +40,6 @@ Many business owners assume that the only way to attract more customers is by lo
 * **Enhanced Customer Experience:** Improve packaging, offer handwritten thank-you notes, or provide seamless after-purchase support.
 * **Community & Engagement:** Build a private group, host Q\&A sessions, or create loyalty rewards for repeat buyers.
 
-✅ **Your Task:** List three ways You can add more value to your audience. Think beyond price—how can you make your offer more compelling and meaningful?
+✅ **Your Task:** List three ways You can add more value to your audience. Think beyond price - how can you make your offer more compelling and meaningful?
 
 ***

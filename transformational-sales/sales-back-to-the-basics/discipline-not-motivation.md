@@ -1,3 +1,7 @@
+---
+description: Discipline is sustainable, motivation is not.
+---
+
 # Discipline Not Motivation
 
 Many entrepreneurs think they need motivation to succeed, but the truth is **discipline outperforms motivation every time.** Motivation fluctuates, but discipline and consistency keeps you moving forward.
@@ -8,7 +12,7 @@ Many entrepreneurs think they need motivation to succeed, but the truth is **dis
 
 ***
 
-**Actionable Exercise:**
+<mark style="color:blue;">**Actionable Exercise**</mark>
 
 1. Set a daily sales-related goal (e.g., send one email, engage with five customers, post one valuable piece of content) it doesn't have to be these ones listed here just pick which works for you and improve.
 2. Track your consistency for a week - what patterns do you notice?
@@ -18,4 +22,4 @@ Many entrepreneurs think they need motivation to succeed, but the truth is **dis
 
 Focus on the journey and effort (your actions, which are in your control) don't bother wasting your time or energy on things that aren't within your control (people's actions or the results). Again, Focus on the journey and goal not the results or outcome. A lot of us were raised this way but we can do better. And success is from Allaah.
 
-Remember: This is just a guide; you are the one who will put in the effort to make it happen.  Success starts with you.
+_Remember_: This is just a guide; **you** are the one who will put in the effort to make it happen.  Success starts with **you.**

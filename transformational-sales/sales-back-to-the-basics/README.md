@@ -10,6 +10,12 @@ description: '"To the degree that you are sold, you will sell". - Grant'
 
 In the bustling streets of West Africa where I grew up, business wasn't just business - it was survival. Every sale felt like a desperate push against rejection, every pitch a forceful intrusion into uninterested lives. This relentless game of survival painted such a distasteful picture of entrepreneurship that I found myself recoiling from it entirely. Like many others, I had been sold a version of business that left nothing but discomfort in its wake.&#x20;
 
+But AlhamduliLlaah, Allaah has encouraged buying and selling and business.&#x20;
+
+> O you who believe (Muslims)! When the call is proclaimed for the Salât (prayer) on Friday (Jumu‘ah prayer), come to the remembrance of Allâh \[Jumu‘ah religious talk (Khutbah) and Salât (prayer)] and leave off business (and every other thing). That is better for you if you did but know! Then when the (Jumu‘ah) Salât (prayer) is ended, you may disperse through the land, and seek the Bounty of Allâh (by working, etc.), and remember Allâh much: that you may be successful.
+>
+> — Al-Hilali & Khan Qur'aan 62:9-10
+
 ***
 
 Let me break down the four types of business owners I observed in my community - it's like a cast of characters that shaped my understanding of commerce:
@@ -34,7 +40,7 @@ Business or Sales isn't about forcing your desires on others or playing it too s
 
 ### 1. Cultural Shift: From Selling to Delivering Value
 
-Many entrepreneurs focus on selling their product, but the real shift happens when you move from selling to delivering Value. This is not just a mindset change; it’s a cultural shift in how you approach your business.
+Many entrepreneurs focus on selling their product, but the real shift happens when you move from _selling_ to _delivering value_. This is not just a mindset change; it’s a cultural shift in how you approach your business.
 
 * **Understand Your Offer & Its Impact**: Your product or service isn’t just something to sell; it’s something that solves a problem, meets a need, or fulfills a desire. Ask yourself:
   * What do I offer that is of real value?
@@ -44,12 +50,12 @@ Many entrepreneurs focus on selling their product, but the real shift happens wh
   * What you can give (your product or service)
   * What you desire (your business goals and purpose)
   * What others want (your target audience’s needs and challenges)
-* **Get Sold on Your Own Product**: "To the extent that you are sold, you will sell" - Grant. If you’re not convinced your product will change lives, help people, or solve real problems, you may need to re-evaluate what you’re selling. A strong belief in your offer fuels authentic sales.
-* **Position Yourself as an Expert**: If you already have the expertise, own it. If not, invest in learning and improving so that you can confidently deliver value. We often stay stuck in familiar ways, resisting growth, yet expect better sales outcomes. So invest in yourself. "The biggest and best investment that you can make is in your own skillset. Because skills are the ultimate hedge against inflation. They are the hedge against currency changes. People say: 'what's going to happen to the dollar?' It doesn't matter, if you have value to exchange, the world will exchange for it." - Alex hormozi.
+* **Get Sold on Your Own Product**: _"To the extent that you are sold, you will sell" - Grant_. If you’re not convinced your product will change lives, help people, or solve real problems, you may need to re-evaluate what you’re selling. A strong belief in your offer fuels authentic sales. And you should have no business trying to convince people to buy what **you** do not believe will help them.
+* **Position Yourself as an Expert**: If you already have the expertise, own it (although learning doesn't stop). If not, invest in learning and improving so that you can confidently deliver value. We often stay stuck in familiar ways, resisting growth, yet expect better sales outcomes. So, _invest_ in _yourself_. "The biggest and best investment that you can make is in your own skillset. Because skills are the ultimate hedge[^1] against inflation. They are the hedge against currency changes. People say: 'what's going to happen to the dollar?' It doesn't matter, if you have value to exchange, the world will exchange for it." - Alex hormozi.
 
 ***
 
-**Actionable Exercise:**
+<mark style="color:blue;">**Actionable Exercise**</mark>
 
 1. **Write down your product/service and the problem it solves.**
    * Example: If you sell handmade skincare products, the problem might be that many store-bought options contain harmful chemicals, and people need safer, natural alternatives.
@@ -64,7 +70,10 @@ Many entrepreneurs focus on selling their product, but the real shift happens wh
      * What emotions or desires drive your decision?
      * Would a personal story, a demonstration, or a guarantee make you feel more confident in your purchase?
 4. **Identify one way you can improve your offer to better serve your audience.**
-   * Example: If you notice that your customers care about sustainability, you might introduce **eco-friendly packaging** or a **refillable option**.
+   * Example: If you notice that your customers are concerned about health, you might introduce organic or gluten-free options.&#x20;
+   * If people hesitate due to unfamiliarity with your brand, could you offer a money-back guarantee to make them feel more confident in trying your products?
    * If people hesitate due to price, could you offer a **trial size** to build trust before they commit to a full-size purchase?
 
-**Challenge:** Ask five potential customers what would make them more confident in purchasing your product. Compare their answers to your own. What insights did you gain?
+<mark style="color:blue;">**Challenge:**</mark> _Identify and ask five potential customers what would make them more confident in purchasing your product. Compare their answers to your own. What insights did you gain?_
+
+[^1]: This means when someone tries to avoid risk by doing things in a way that gives them a backup plan, just in case. It's a barrier or protection.
