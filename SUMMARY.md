@@ -29,6 +29,13 @@
     * [Ask](nadra-framework/the-framework/strengthen-patience/ask.md)
     * [Give](nadra-framework/the-framework/strengthen-patience/give.md)
 
+## Transformational Sales
+
+* [Sales: Back to the Basics](transformational-sales/sales-back-to-the-basics/README.md)
+  * [Seller Market-Fit & Offer Market-Fit](transformational-sales/sales-back-to-the-basics/seller-market-fit-and-offer-market-fit.md)
+  * [Abundance Over Scarcity](transformational-sales/sales-back-to-the-basics/abundance-over-scarcity.md)
+  * [Discipline Not Motivation](transformational-sales/sales-back-to-the-basics/discipline-not-motivation.md)
+
 ## Got Feedback?
 
 * [Let us Know](got-feedback/let-us-know.md)
