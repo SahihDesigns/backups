@@ -6,7 +6,7 @@ description: Discipline is sustainable, motivation is not.
 
 Many entrepreneurs think they need motivation to succeed, but the truth is **discipline outperforms motivation every time.** Motivation fluctuates, but discipline and consistency keeps you moving forward.
 
-* **Consistency Builds Results**: Selling isn’t a one-time action - it’s a process. Show up daily, refine your approach, and stay committed. Change your mindset from "I can't be consistent, to I am consistent at something which is unfavorable or unhealthy and negative, I just need to channel this into something that benefits me and yields positive outcomes".
+* **Consistency Builds Results**: Selling isn’t a one-time action - it’s a process. Show up daily, refine your approach, and stay committed. Change your mindset from "I can't be consistent", to "I am consistent at something which is unfavorable or unhealthy and negative, I just need to channel this into something that benefits me and yields positive outcomes".
 * **Implement Systems & Habits**: Create routines that ensure you are consistently engaging with your audience, refining your product, and improving your marketing.
 * **Debunk the Motivation Myth**: Successful sellers don’t rely on bursts of motivation; they rely on well-built habits that drive them forward even on difficult days.
 
