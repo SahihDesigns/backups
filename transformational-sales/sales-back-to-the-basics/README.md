@@ -20,18 +20,18 @@ But AlhamduliLlaah, Allaah has encouraged buying and selling and business.&#x20;
 
 Let me break down the four types of business owners I observed in my community - it's like a cast of characters that shaped my understanding of commerce:
 
-First, we had the Market Listeners - think of them as the good detectives of business. They actually paid attention to what people needed and wanted. They were the ones running stores that stocked fresh groceries, household essentials, and daily necessities. They understood **part** of the basics of business, which is solving real problems for real people.
+First, we have the Market Listeners - think of them as the good detectives of business. They actually paid attention to what people needed and wanted. They were the ones running stores that stocked fresh groceries, household essentials, and daily necessities. They understood **part** of the basics of business, which is solving _real problems_ for _real people._
 
-Then there were the Wishful Thinkers - imagine someone opening a high-end designer boutique in a small farming town. They were so focused on what they personally wanted to sell that they forgot to ask, "Does anyone around here actually want or need this?" They were basically having a conversation with themselves rather than their customers.&#x20;
+Then there were the Wishful Thinkers - imagine someone opening a high-end designer boutique in a small farming town. They were so focused on what _they_ personally wanted to sell that they forgot to ask, "Does anyone around here actually want or need this?" They were basically having a conversation with _themselves_ rather than _their customers._&#x20;
 
-The Warriors were the pushy salespeople that exist in every culture - from the persistent street vendors in Lagos who'll follow you for blocks insisting you need their watches or bags "aunty come and buy," to the hovering electronics store salesperson in Dubai who won't let you browse in peace, to that American car dealership agent who tracks you around the lot like a shadow. Think of the fabric sellers in Accra's Makola Market who'll literally grab your arm.
+The Warriors were the pushy salespeople that exist in every culture - from the persistent street vendors in Lagos who'll follow you for blocks insisting you need their watches or bags "aunty come and buy," to that American car dealership agent who tracks you around the lot like a shadow. Think of the fabric sellers in Accra's Makola Market who'll literally grab your arm.
 
 These sellers treated commerce like warfare, where every customer was a target to be worn down. The really concerning part? Many didn't even believe in their products. They'd pressure someone into buying that knockoff designer bag "this is original, check am na", or that questionable used car, using the same tactics worldwide: fake scarcity ("Last one in stock!"), guilt trips ("This thing will suit you well"), and relentless pursuit. Their aggressive energy was universal and exhausting. These were the sellers who made shopping feel like surviving an ambush, leaving customers feeling relieved when they escaped, rather than satisfied with their purchase.
 
-Finally, we had the Safe Players. Think of them as the cover bands of the business world - they stuck to selling familiar products in familiar ways. While this wasn't necessarily bad (after all, people do need reliable places to buy everyday items), they missed opportunities to innovate or stand out.
+Finally, we had the Safe Players. Think of them as the[ cover bands ](#user-content-fn-1)[^1]of the business world - they stuck to selling familiar products in familiar ways. While this wasn't necessarily bad (after all, people do need reliable places to buy everyday items), they missed opportunities to innovate or stand out.
 
 {% hint style="info" %}
-Business or Sales isn't about forcing your desires on others or playing it too safe - it's about finding that sweet spot where what you offer meets what people actually need or want. _**Pay attention**._&#x20;
+Business isn’t about forcing your desires onto the world, nor is it about hiding in the safety of the familiar. It’s about finding that moment when your offering and their need align. Listen closely, the market is clearer than you think.
 {% endhint %}
 
 ***
@@ -50,8 +50,8 @@ Many entrepreneurs focus on selling their product, but the real shift happens wh
   * What you can give (your product or service)
   * What you desire (your business goals and purpose)
   * What others want (your target audience’s needs and challenges)
-* **Get Sold on Your Own Product**: _"To the extent that you are sold, you will sell" - Grant_. If you’re not convinced your product will change lives, help people, or solve real problems, you may need to re-evaluate what you’re selling. A strong belief in your offer fuels authentic sales. And you should have no business trying to convince people to buy what **you** do not believe will help them.
-* **Position Yourself as an Expert**: If you already have the expertise, own it (although learning doesn't stop). If not, invest in learning and improving so that you can confidently deliver value. We often stay stuck in familiar ways, resisting growth, yet expect better sales outcomes. So, _invest_ in _yourself_. "The biggest and best investment that you can make is in your own skillset. Because skills are the ultimate hedge[^1] against inflation. They are the hedge against currency changes. People say: 'what's going to happen to the dollar?' It doesn't matter, if you have value to exchange, the world will exchange for it." - Alex hormozi.
+* **Get Sold on Your Own Product**: _"To the degree that you are sold, you will sell" - Grant_. If you’re not convinced your product will change lives, help people, or solve real problems, you may need to re-evaluate what you’re selling. A strong belief in your offer fuels authentic sales. And you should have no business trying to convince people to buy what **you** do not believe will help them.
+* **Position Yourself as an Expert**: If you already have the expertise, own it (although learning doesn't stop). If not, invest in learning and improving so that you can confidently deliver value. We often stay stuck in familiar ways, resisting growth, yet expect better sales outcomes. So, _invest_ in _yourself_. "The biggest and best investment that you can make is in your own skillset. Because skills are the ultimate hedge[^2] against inflation. They are the hedge against currency changes. People say: 'what's going to happen to the dollar?' It doesn't matter, if you have value to exchange, the world will exchange for it." - Alex hormozi.
 
 ***
 
@@ -76,4 +76,6 @@ Many entrepreneurs focus on selling their product, but the real shift happens wh
 
 <mark style="color:blue;">**Challenge:**</mark> _Identify and ask five potential customers what would make them more confident in purchasing your product. Compare their answers to your own. What insights did you gain?_
 
-[^1]: This means when someone tries to avoid risk by doing things in a way that gives them a backup plan, just in case. It's a barrier or protection.
+[^1]: refers to companies/businesses that stick to doing things the same way they’ve always been done, offering familiar products or services without much innovation. They don’t take risks or try to create something new or different - they simply play it safe and follow established patterns.
+
+[^2]: This means when someone tries to avoid risk by doing things in a way that gives them a backup plan, just in case. It's a barrier or protection.
