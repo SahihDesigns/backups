@@ -31,7 +31,7 @@ These sellers treat commerce like warfare, where every customer was a target to 
 Finally, we have the Safe Players. Think of them as the [cover bands](#user-content-fn-1)[^1] of the business world - they stick to selling familiar products in familiar ways. While this isn't necessarily bad (after all, people do need reliable places to buy everyday items), they missed opportunities to innovate or stand out.
 
 {% hint style="info" %}
-Business isn’t about forcing your desires onto the world, nor is it about hiding in the safety of the familiar. It’s about finding that moment when your offering and the customer's need align. Listen closely, the market is clearer than you think.
+Business isn’t about forcing your desires onto the world, nor is it about hiding in the safety of the familiar. It’s about finding that moment where your offering and the customer's need align. Listen closely, the market is clearer than you think.
 {% endhint %}
 
 ***
