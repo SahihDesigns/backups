@@ -1,15 +1,15 @@
 ---
+icon: flag-checkered
 description: >-
   The terms of accessing our Nadra Marketplace Ltd Framework and its related
   sections - The boring but Important stuff.
-icon: flag-checkered
 ---
 
 # Ethics Page Terms
 
 ### **Ethics Framework - Terms of Use**
 
-The Ethics Framework ("Nadra Framework" "Transformational Sales") on this website is provided under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. This means you are **free to adopt and implement** the Framework **as long as you provide proper attribution** and follow these conditions:
+The Ethics Framework ("Nadra Framework" "Transformational Sales") on this website is provided under the [<mark style="color:purple;">**Creative Commons Attribution 4.0 International (CC BY 4.0)**</mark>](https://creativecommons.org/licenses/by/4.0/deed.en) license. This means you are **free to adopt and implement** the Framework **as long as you provide proper attribution** and follow these conditions:
 
 **Attribution Requirements**
 
