@@ -36,6 +36,7 @@
   * [Seller Market-Fit & Offer Market-Fit](transformational-sales/sales-back-to-the-basics/seller-market-fit-and-offer-market-fit.md)
   * [Abundance Over Scarcity](transformational-sales/sales-back-to-the-basics/abundance-over-scarcity.md)
   * [Discipline Not Motivation](transformational-sales/sales-back-to-the-basics/discipline-not-motivation.md)
+  * [What you are Selling vs What you Think you are Selling](transformational-sales/sales-back-to-the-basics/what-you-are-selling-vs-what-you-think-you-are-selling.md)
 
 ## Got Feedback?
 
