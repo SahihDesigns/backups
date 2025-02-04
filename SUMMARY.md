@@ -9,6 +9,7 @@
 
 * [Terms of Use](nadra-policies/terms-of-use.md)
   * [Shopper Terms](nadra-policies/terms-of-use/shopper-terms.md)
+  * [Ethics Page Terms](nadra-policies/terms-of-use/ethics-page-terms.md)
 * [Privacy Policy](nadra-policies/privacy-policy/README.md)
   * [Buyer Protection Policy](nadra-policies/privacy-policy/buyer-protection-policy.md)
 * [Payments & Transactions](nadra-policies/payments-and-transactions.md)
