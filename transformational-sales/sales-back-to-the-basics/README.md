@@ -36,9 +36,9 @@ Business isn’t about forcing your desires onto the world, nor is it about hidi
 
 ***
 
-## **Cultural Shift in Selling: Moving Beyond Mindset to Transform Your Approach**
+### **Cultural Shift in Selling: Moving Beyond Mindset to Transform Your Approach**
 
-### From Selling to Delivering Value
+#### From Selling to Delivering Value
 
 Many entrepreneurs focus on selling their product, but the real shift happens when you move from _selling_ to _delivering value_. This is not just a mindset change; it’s a cultural shift in how you approach your business.
 

@@ -50,11 +50,11 @@ Sellers who focus solely on **features** miss the bigger picture. By not underst
 
 #### Key Takeaways:
 
-1. **Ask the Right Questions**: Understand what the customer truly values before offering a solution. Don’t just assume their needs are obvious.
-2. **Dig Deeper**: Just as Nokia missed the mark by focusing too much on hardware, you should focus on the **emotional** and **social** needs your product fulfills.
-3. **Listen and be attentive**: Truly listen to what your customers are saying — the answers are often not in what they explicitly say, but in what they don't and actually what they **do**.&#x20;
+1. **Ask the Right Questions**: Understand what the customer truly values before offering a solution. Don’t just _assume their needs_ are obvious.
+2. **Dig Deeper**: Just as Nokia missed the mark by focusing too much on hardware, you should focus on the **emotional** and **social** needs your product _fulfills._
+3. **Listen and be attentive**: Truly listen to what your customers are saying — the answers are often not in what they explicitly say, but in what they don't and other times in actually what they **do**.&#x20;
 
-**Example:** I once asked a group of sellers if they’d be interested in splitting a group I co-admin into a "Seller Support" section and another for buyer inquiries. The poll showed interest, but when the group was set up, no one used it. Why? Because while they liked the idea, they weren’t fully aware of what actually motivated their actions. Customers often don’t realize the deeper factors driving their decisions, and when you ask them to step outside their usual habits, it can lead to a lack of participation. Asking clear [open-ended questions](#user-content-fn-1)[^1] can uncover more insights than you would expect.
+**Example:** I once asked a group of sellers if they’d be interested in splitting a group I co-admin — into a "Seller Support" section and another for buyer inquiries. The poll showed interest, but when the group was set up, no one used it. Why? Because while they liked the idea, they weren’t fully aware of what actually motivated their actions. So, in this way, customers often don’t realize the deeper factors driving their decisions, and when you ask them to step outside their usual habits, it can lead to a lack of participation. Asking clear [open-ended questions](#user-content-fn-1)[^1] can uncover more insights than you would expect.
 
 4. **Embrace the Power of Connection**: Whether it’s a car, a phone, or a hijaab, your customer is seeking something more than just the physical product. They’re after a deeper **connection**, **status**, or **validation**.
 
