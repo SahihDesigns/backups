@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-* [As- Salaamu alaykum and Welcome Sis!](README.md)
+* [Nadra Marketplace Ethics & Values | Islaamic Business Principles](README.md)
 * [Quick Start](getting-started/quick-start.md)
 
 ## Nadra Policies

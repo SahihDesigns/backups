@@ -1,27 +1,67 @@
 ---
 icon: hand-wave
-description: Sell smarter, empowered by knowledge that benefits you and your customers.
+description: Selling with Confidence, Earning with Integrity.
 ---
 
-# As- Salaamu alaykum and Welcome Sis!
+# Nadra Marketplace Ethics & Values | Islaamic Business Principles
 
-Nadra isn't just another marketplac&#x65;**.** It’s a space designed for Muslim women entrepreneurs who want to sell with confidence, uphold ethics, and build trust with their customers.
+### **A Guide to Ethical & Profitable Business for Muslim Women**
 
-**Why Nadra?**
+Business is more than just transactions — it’s trust, purpose, and responsibility. At Nadra, we believe that success should come with barakah, built on principles that align with our faith.
 
-* A marketplace built on values - where every sale is made with clarity, purpose, and barakah _In shaa Allaah._
-* A space where your success uplifts the community - through fair, ethical, and rewarding transactions.
-* More than selling **-** it’s about meaningful connections, strong business principles, and aligned intentions.
+This page is for **Muslim women entrepreneurs** who want to:
 
-&#x20;**Start Here**\
-This page is your guide to selling with clarity, confidence, and consistency **-** while ensuring your business follows Islaamic principles in every transaction.
+* **Sell ethically** and run a business that is both profitable and halaal.
+* **Understand Islaamic business ethics** and how to apply them in modern commerce.
+* **Shift the culture** — so ethical selling isn’t the exception, but the standard.
 
-&#x20;**Discover:**\
-The ethics, terms, and policies that protect your business & customers.\
-&#x20;A clear framework for honest, high-value selling.\
-&#x20;How Nadra helps you grow **-** without compromising on your values.
+We haven’t launched our marketplace yet. But before we trade goods, we’re setting the foundation for something bigger: **a space where Muslim women do business with ihsan, clarity, and confidence.**
 
-**Let’s Begin**: Your path to ethical, profitable selling starts **now.**
+***
+
+#### **Why This Matters**
+
+Too often, business is shaped by pressure to compete at any cost. Sellers underprice their work, overpromise, or struggle to stand out. Buyers hesitate, unsure who to trust. **What if we built something different?**
+
+* **A marketplace rooted in ethics -** where business is an act of ibaadah.
+* **A shift in mindset -** where sellers know their worth and buyers value quality.
+* **A commitment to trust -** where every transaction is transparent and fair. _(in shaa Allaah)_
+
+**We’re building this together. It starts here.**
+
+***
+
+#### **What We Hope You’ll Learn Here**
+
+✔️ **The Foundations of Ethical Selling** – Clear guidelines for running a business with honesty, fairness, and sincerity.
+
+✔️ **Halal Business Strategies** – Pricing, marketing, and customer service that align with Islamic values.
+
+✔️ **Trust & Transparency in Sales** – How to build long-term customer relationships and attract buyers who respect your work.
+
+✔️ **The Nadra Standard** – Our approach to ethical commerce and how we plan to bring it to life in our upcoming marketplace.
+
+**This is more than a page of policies—it’s a framework for doing business with barakah.**
+
+***
+
+#### **A New Culture of Business Starts With Us**
+
+The way we sell shapes the way we buy. The way we buy shapes the kind of businesses that thrive. **If we want to see change, we have to be that change.**
+
+This isn’t just about one marketplace—it’s about setting a new standard for how Muslim women do business. A standard that values honesty over hype, quality over quick wins, and barakah over shortcuts.
+
+We’re not here to sell you anything today. We’re here to **build something that lasts.**
+
+***
+
+#### **Join the Movement**
+
+📌 **Read the guidelines.** See how ethical business is both possible and profitable.\
+📌 **Apply the principles.** Test them in your business and see the difference.\
+📌 **Stay connected.** When Nadra launches, you’ll already be ahead — ready to sell with confidence and clarity _in shaa Allaah_.
+
+Let’s build a better marketplace, starting now.
 
 ### Jump right in
 
