@@ -20,6 +20,7 @@
 
 * [Buying & Selling](business-dealings/buying-and-selling.md)
 * [Permissible Posts](business-dealings/permissible-posts.md)
+* [🛑 Prohibited Transactions](business-dealings/prohibited-transactions.md)
 
 ## Nadra Framework
 
