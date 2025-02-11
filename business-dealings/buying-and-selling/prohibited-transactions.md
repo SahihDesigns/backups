@@ -12,4 +12,4 @@ The following are some prohibited transactions in the _Shareeʿah_ Law:
 
 ***
 
-<mark style="color:purple;">Source</mark>
+[<mark style="color:purple;">Source</mark>](https://abukhadeejah.com/prohibited-transactions-when-trading/)
