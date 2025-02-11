@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-* [Nadra Marketplace Ethics & Values | Islaamic Business Principles](README.md)
+* [Nadra Marketplace Ethics & Halaal Business Guide – Sell with Integrity & Barakah](README.md)
 * [Quick Start](getting-started/quick-start.md)
 
 ## Nadra Policies
@@ -37,6 +37,7 @@
   * [Abundance Over Scarcity](transformational-sales/sales-back-to-the-basics/abundance-over-scarcity.md)
   * [Discipline Not Motivation](transformational-sales/sales-back-to-the-basics/discipline-not-motivation.md)
   * [What you are Selling vs What you Think you are Selling](transformational-sales/sales-back-to-the-basics/what-you-are-selling-vs-what-you-think-you-are-selling.md)
+* [The Price of Undervaluing Ourselves: How We Teach People to Treat Us](transformational-sales/the-price-of-undervaluing-ourselves-how-we-teach-people-to-treat-us.md)
 
 ## Got Feedback?
 

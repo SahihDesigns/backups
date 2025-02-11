@@ -3,7 +3,7 @@ icon: hand-wave
 description: Selling with Confidence, Earning with Integrity.
 ---
 
-# Nadra Marketplace Ethics & Values | Islaamic Business Principles
+# Nadra Marketplace Ethics & Halaal Business Guide – Sell with Integrity & Barakah
 
 ### **A Guide to Ethical & Profitable Business for Muslim Women**
 
@@ -47,9 +47,9 @@ Too often, business is shaped by pressure to compete at any cost. Sellers underp
 
 #### **A New Culture of Business Starts With Us**
 
-The way we sell shapes the way we buy. The way we buy shapes the kind of businesses that thrive. **If we want to see change, we have to be that change.**
+The way we sell shapes the way we buy. The way we buy shapes the kind of businesses that thrive. **If we want to see change, we have to be that change&#x20;**<mark style="color:red;">**|**</mark> [<mark style="color:purple;">**Learn more**</mark>](transformational-sales/the-price-of-undervaluing-ourselves-how-we-teach-people-to-treat-us.md)
 
-This isn’t just about one marketplace—it’s about setting a new standard for how Muslim women do business. A standard that values honesty over hype, quality over quick wins, and barakah over shortcuts.
+This isn’t only about one marketplace- it’s about setting a new standard for how Muslim women do business. A standard that values honesty over hype, quality over quick wins, and barakah over shortcuts.
 
 We’re not here to sell you anything today. We’re here to **build something that lasts.**
 
