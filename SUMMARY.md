@@ -18,9 +18,9 @@
 
 ## Business Dealings
 
-* [Buying & Selling](business-dealings/buying-and-selling.md)
+* [Buying & Selling](business-dealings/buying-and-selling/README.md)
+  * [🛑 Prohibited Transactions](business-dealings/buying-and-selling/prohibited-transactions.md)
 * [Permissible Posts](business-dealings/permissible-posts.md)
-* [🛑 Prohibited Transactions](business-dealings/prohibited-transactions.md)
 
 ## Nadra Framework
 
