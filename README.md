@@ -15,7 +15,7 @@ This page is for **Muslim women entrepreneurs** who want to:
 * **Understand Islaamic business ethics** and how to apply them in modern commerce.
 * **Shift the culture** — so ethical selling isn’t the exception, but the standard.
 
-We haven’t launched our marketplace yet. But before we trade goods, we’re setting the foundation for something bigger: **a space where Muslim women do business with ihsan, clarity, and confidence.**
+We haven’t launched our marketplace yet. But before we trade goods, we’re setting the foundation for something bigger: **a space where Muslim women do business with thoughtfulness, clarity, and confidence.**
 
 ***
 
