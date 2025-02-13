@@ -7,7 +7,7 @@ description: Selling with Confidence, Earning with Integrity.
 
 ### **A Guide to Ethical & Profitable Business for Muslim Women**
 
-Business is more than just transactions — it’s trust, purpose, and responsibility. At Nadra, we believe that success should come with barakah, built on principles that align with our faith.
+Business is more than just transactions — it’s trust, purpose, and responsibility. Your business should be more than just sales — it should be a source of barakah, confidence, and trust. Imagine running a business where every transaction strengthens your faith and your income _in shaa Allaah._
 
 This page is for **Muslim women entrepreneurs** who want to:
 
@@ -21,7 +21,7 @@ We haven’t launched our marketplace yet. But before we trade goods, we’re se
 
 #### **Why This Matters**
 
-Too often, business is shaped by pressure to compete at any cost. Sellers underprice their work, overpromise, or struggle to stand out. Buyers hesitate, unsure who to trust. **What if we built something different?**
+Ever felt pressured to lower your prices, overpromise, or struggle to stand out? Have you hesitated before buying, unsure who to trust? You’re not alone. But what if you could run a business where trust, meaningful relationships and barakah were at the center?
 
 * **A marketplace rooted in ethics -** where business is an act of ibaadah.
 * **A shift in mindset -** where sellers know their worth and buyers value quality.
@@ -57,9 +57,9 @@ We’re not here to sell you anything today. We’re here to **build something t
 
 #### **Join the Movement**
 
-📌 **Read the guidelines.** See how ethical business is both possible and profitable.\
+📌 **Start now:** Learn how ethical business is both profitable and possible.\
 📌 **Apply the principles.** Test them in your business and see the difference.\
-📌 **Stay connected.** When Nadra launches, you’ll already be ahead — ready to sell with confidence and clarity _in shaa Allaah_.
+📌 **Be ready before everyone else:** Get ahead now, so when Nadra launches, you're already selling with integrity and success, in shaa Allaah.
 
 Let’s build a better marketplace, starting now.
 
