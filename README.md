@@ -7,7 +7,7 @@ description: Selling with Confidence, Earning with Integrity.
 
 ### **A Guide to Ethical & Profitable Business for Muslim Women**
 
-Business is more than just transactions — it’s trust, purpose, and responsibility. Your business should be more than just sales — it should be a source of barakah, confidence, and trust. Imagine running a business where every transaction strengthens your faith and your income _in shaa Allaah._
+Business in Islaam is trust, purpose, and responsibility. Your work should be a source of barakah - where every transaction strengthens both your faith and your income, in shaa Allaah.
 
 This page is for **Muslim women entrepreneurs** who want to:
 
@@ -19,7 +19,7 @@ We haven’t launched our marketplace yet. But before we trade goods, we’re se
 
 ***
 
-#### **Why This Matters**
+### **Why This Matters**
 
 Ever felt pressured to lower your prices, overpromise, or struggle to stand out? Have you hesitated before buying, unsure who to trust? You’re not alone. But what if you could run a business where trust, meaningful relationships and barakah were at the center?
 
@@ -31,7 +31,7 @@ Ever felt pressured to lower your prices, overpromise, or struggle to stand out?
 
 ***
 
-#### **What We Hope You’ll Learn Here**
+### **What We Hope You’ll Learn Here**
 
 ✔️ **The Foundations of Ethical Selling** – Clear guidelines for running a business with honesty, fairness, and sincerity.
 
@@ -45,21 +45,23 @@ Ever felt pressured to lower your prices, overpromise, or struggle to stand out?
 
 ***
 
-#### **A New Culture of Business Starts With Us**
+### **A New Culture of Business Starts With Us**
 
 The way we sell shapes the way we buy. The way we buy shapes the kind of businesses that thrive. **If we want to see change, we have to be that change&#x20;**<mark style="color:red;">**|**</mark> [<mark style="color:purple;">**Learn more**</mark>](transformational-sales/the-price-of-undervaluing-ourselves-how-we-teach-people-to-treat-us.md)
 
-This isn’t only about one marketplace- it’s about setting a new standard for how Muslim women do business. A standard that values honesty over hype, quality over quick wins, and barakah over shortcuts.
+This isn’t only about one marketplace - it’s about setting a new standard for how Muslim women do business. A standard that values honesty over hype, quality over quick wins, and barakah over shortcuts.
 
 We’re not here to sell you anything today. We’re here to **build something that lasts.**
 
 ***
 
-#### **Join the Movement**
+### **Join the Movement**
 
-📌 **Start now:** Learn how ethical business is both profitable and possible.\
-📌 **Apply the principles.** Test them in your business and see the difference.\
-📌 **Be ready before everyone else:** Get ahead now, so when Nadra launches, you're already selling with integrity and success, in shaa Allaah.
+**Start now:** Learn how ethical business is both profitable and possible.&#x20;
+
+**Apply the principles:** Test them in your business and see the difference.&#x20;
+
+**Be ready**: When Nadra launches, you'll already be selling with integrity and success, in shaa Allaah.
 
 Let’s build a better marketplace, starting now.
 
