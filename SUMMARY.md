@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-* [Nadra Marketplace Ethics & Halaal Business Guide | Sell with Integrity & Barakah](README.md)
+* [The Muslim Woman's Guide to Ethical Business](README.md)
 * [Quick Start](getting-started/quick-start.md)
 
 ## Nadra Policies

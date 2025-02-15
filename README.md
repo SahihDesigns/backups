@@ -3,7 +3,7 @@ icon: hand-wave
 description: Selling with Confidence, Earning with Integrity.
 ---
 
-# Nadra Marketplace Ethics & Halaal Business Guide | Sell with Integrity & Barakah
+# The Muslim Woman's Guide to Ethical Business
 
 ### **A Guide to Ethical & Profitable Business for Muslim Women**
 
@@ -31,7 +31,7 @@ Ever felt pressured to lower your prices, overpromise, or struggle to stand out?
 
 ***
 
-### **What We Hope You’ll Learn Here**
+### What You'll Gain
 
 ✔️ **The Foundations of Ethical Selling** – Clear guidelines for running a business with honesty, fairness, and sincerity.
 
