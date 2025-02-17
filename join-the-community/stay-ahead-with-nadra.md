@@ -1,7 +1,20 @@
 ---
-cover: ../.gitbook/assets/hhh.png
-coverY: 0
-layout: landing
+cover: ../.gitbook/assets/pexels-ivan-samkov-7394471.jpg
+coverY: -165.15976025390623
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # Stay Ahead with Nadra
