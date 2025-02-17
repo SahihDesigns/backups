@@ -40,6 +40,6 @@
   * [What you are Selling vs What you Think you are Selling](transformational-sales/sales-back-to-the-basics/what-you-are-selling-vs-what-you-think-you-are-selling.md)
 * [The Price of Undervaluing Ourselves: How We Teach People to Treat Us](transformational-sales/the-price-of-undervaluing-ourselves-how-we-teach-people-to-treat-us.md)
 
-## Got Feedback?
+## Got Feedback? Help Us Improve!
 
-* [Let us Know](got-feedback/let-us-know.md)
+* [Make a Difference](got-feedback-help-us-improve/make-a-difference.md)
