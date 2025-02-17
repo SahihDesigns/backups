@@ -1,6 +1,8 @@
 ---
 icon: hand-wave
 description: Selling with Confidence, Earning with Integrity.
+cover: .gitbook/assets/pexels-jan-krnc-268225-1043458.jpg
+coverY: 0
 ---
 
 # The Muslim Woman's Guide to Ethical Business
