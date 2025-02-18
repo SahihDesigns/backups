@@ -1,34 +1,51 @@
 ---
 icon: hand-wave
-description: Where Principles Meet Practice.
+description: Where Trust Transforms Trade
 cover: .gitbook/assets/pexels-jan-krnc-268225-1043458.jpg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # The Muslim Woman's Guide to Ethical Business
 
 **What Needs to Change?**
 
-We often get stuck asking the same questions, thinking the same way, and wondering why we don’t get the results we expect. Instead of asking:\
-&#xNAN;_“How do I make more sales?”_\
-We could Ask: _“What would happen if I focused on the customer’s true needs instead of just pushing products?”_
+What if everything you've been taught about business success was missing its most crucial element?
 
-Instead of asking:\
-&#xNAN;_“How do I compete with everyone else?”_\
-We could Ask: _“What would it take to make my product so irresistible that customers choose me without hesitation?”_
+Like the cherry blossoms above us, lasting success emerges from strong roots - not from chasing quick blooms.
 
-Instead of asking:\
-&#xNAN;_“How do I stand out?”_\
-We could Ask: _“What if my approach made every customer feel like they were part of something bigger, something they could trust?”_
+**Old Thinking:** "How do I survive in business?"
 
-As a marketplace, we’re not just asking, _“How do we build a better platform?”_\
-Instead, we’re asking: _“What needs to change for ethical business to become the norm, not the exception?”_ Let's challenge ourselves to ask the right questions—ones that help us solve problems, grow with purpose, and create a real impact. It's time to rethink the way we build, sell, and serve.
+**New Perspective:** "What if thriving was the natural outcome of ethical business?"
+
+**Old Thinking:** "How do I compete in a crowded market?"
+
+**New Perspective:** "What if trust became your strongest differentiator?"
+
+**Old Thinking:** "How do I maximize profits?"
+
+**New Perspective:** "What if barakah was your true measure of success?"
+
+Ethical business follows timeless principles. What needs to change isn't the foundation - it's our belief that we must compromise these principles to succeed.
 
 ***
 
 ### Here's what you'll discover:
 
-→ **Getting Started** Your foundation for ethical commerce - where every policy, principle, and practice comes together to show you what's possible when business meets barakah.
+→ **Getting Started** Your foundation for ethical commerce - Discover what's possible when your business aligns with Islaamic guidance.
 
 → **Nadra Policies** The backbone of trust in our upcoming marketplace. Clear, comprehensive guidelines shaped by Islamic principles - from transactions to partnerships, each policy is designed to protect and empower.
 
@@ -38,15 +55,15 @@ Instead, we’re asking: _“What needs to change for ethical business to become
 
 ***
 
-### **Start Where You Are**&#x20;
+### **Your Path Forward**&#x20;
 
 Whether you're:
 
-* Starting your first business
-* Looking to transform your sales approach
-* Seeking to make integrity your edge
-* Preparing to join our marketplace
-* Or simply seeking to understand ethical commerce
+* Building your first venture
+* Transforming your current approach
+* Making integrity your edge
+* Preparing for our marketplace
+* Understanding ethical commerce
 
 Start anywhere. Grow everywhere.
 
@@ -54,11 +71,13 @@ Start anywhere. Grow everywhere.
 
 ### **Ready to Begin?**
 
+Choose your next step:
+
 1. Learn the principles
 2. Implement the framework
 3. Join our community of ethical entrepreneurs
 
-_Together, we're building more than a marketplace – we're establishing a standard for ethical commerce that honors our faith and empowers our ummah in shaa Allaah._
+Together, we're building more than a marketplace – we're reviving a legacy of ethical commerce that strengthens both our faith and our ummah, in shaa Allah.
 
 ***
 
