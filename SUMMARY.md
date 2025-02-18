@@ -38,6 +38,7 @@
   * [Abundance Over Scarcity](transformational-sales/sales-back-to-the-basics/abundance-over-scarcity.md)
   * [Discipline Not Motivation](transformational-sales/sales-back-to-the-basics/discipline-not-motivation.md)
   * [What you are Selling vs What you Think you are Selling](transformational-sales/sales-back-to-the-basics/what-you-are-selling-vs-what-you-think-you-are-selling.md)
+* [Turning Limiting Questions into Empowering Ones](transformational-sales/turning-limiting-questions-into-empowering-ones.md)
 * [The Price of Undervaluing Ourselves: How We Teach People to Treat Us](transformational-sales/the-price-of-undervaluing-ourselves-how-we-teach-people-to-treat-us.md)
 
 ## Got Feedback? Help Us Improve!
