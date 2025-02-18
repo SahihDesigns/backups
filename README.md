@@ -1,71 +1,66 @@
 ---
 icon: hand-wave
-description: Selling with Confidence, Earning with Integrity.
+description: Where Principles Meet Practice.
 cover: .gitbook/assets/pexels-jan-krnc-268225-1043458.jpg
 coverY: 0
 ---
 
 # The Muslim Woman's Guide to Ethical Business
 
-### **A Guide to Ethical & Profitable Business for Muslim Women**
+**What Needs to Change?**
 
-Business in Islaam is trust, purpose, and responsibility. Your work should be a source of barakah - where every transaction strengthens both your faith and your income, in shaa Allaah.
+We often get stuck asking the same questions, thinking the same way, and wondering why we don’t get the results we expect. Instead of asking:\
+&#xNAN;_“How do I make more sales?”_\
+We could Ask: _“What would happen if I focused on the customer’s true needs instead of just pushing products?”_
 
-This page is for **Muslim women entrepreneurs** who want to:
+Instead of asking:\
+&#xNAN;_“How do I compete with everyone else?”_\
+We could Ask: _“What would it take to make my product so irresistible that customers choose me without hesitation?”_
 
-* **Sell ethically** and run a business that is both profitable and halaal.
-* **Understand Islaamic business ethics** and how to apply them in modern commerce.
-* **Shift the culture** — so ethical selling isn’t the exception, but the standard.
+Instead of asking:\
+&#xNAN;_“How do I stand out?”_\
+We could Ask: _“What if my approach made every customer feel like they were part of something bigger, something they could trust?”_
 
-We haven’t launched our marketplace yet. But before we trade goods, we’re setting the foundation for something bigger: **a space where Muslim women do business with thoughtfulness, clarity, and confidence.**
-
-***
-
-### **Why This Matters**
-
-Ever felt pressured to lower your prices, overpromise, or struggle to stand out? Have you hesitated before buying, unsure who to trust? You’re not alone. But what if you could run a business where trust, meaningful relationships and barakah were at the center?
-
-* **A marketplace rooted in ethics -** where business is an act of ibaadah.
-* **A shift in mindset -** where sellers know their worth and buyers value quality.
-* **A commitment to trust -** where every transaction is transparent and fair. _(in shaa Allaah)_
-
-**We’re building this together. It starts here.**
+As a marketplace, we’re not just asking, _“How do we build a better platform?”_\
+Instead, we’re asking: _“What needs to change for ethical business to become the norm, not the exception?”_ Let's challenge ourselves to ask the right questions—ones that help us solve problems, grow with purpose, and create a real impact. It's time to rethink the way we build, sell, and serve.
 
 ***
 
-### What You'll Gain
+### Here's what you'll discover:
 
-✔️ **The Foundations of Ethical Selling** – Clear guidelines for running a business with honesty, fairness, and sincerity.
+→ **Getting Started** Your foundation for ethical commerce - where every policy, principle, and practice comes together to show you what's possible when business meets barakah.
 
-✔️ **Halal Business Strategies** – Pricing, marketing, and customer service that align with Islamic values.
+→ **Nadra Policies** The backbone of trust in our upcoming marketplace. Clear, comprehensive guidelines shaped by Islamic principles - from transactions to partnerships, each policy is designed to protect and empower.
 
-✔️ **Trust & Transparency in Sales** – How to build long-term customer relationships and attract buyers who respect your work.
+→ **The Framework** _"The problem isn't just a lack of integrity - it's the misplaced belief that integrity doesn't sell."_ Discover how ethical business becomes your competitive advantage. Build. Learn. Strengthen. Ask. Give. <mark style="color:red;">**|**</mark> [<mark style="color:purple;">Learn More</mark>](nadra-framework/the-framework/)
 
-✔️ **The Nadra Standard** – Our approach to ethical commerce and how we plan to bring it to life in our upcoming marketplace.
-
-**This is more than a page of policies — it’s a framework for doing business the right way.**
+→ [<mark style="color:purple;">**Transformational Sales**</mark>](broken-reference) Return to the roots of authentic selling. Align your products with real demand, your purpose with your offering, and your success with your values.
 
 ***
 
-### **A New Culture of Business Starts With Us**
+### **Start Where You Are**&#x20;
 
-The way we sell shapes the way we buy. The way we buy shapes the kind of businesses that thrive. **If we want to see change, we have to be that change&#x20;**<mark style="color:red;">**|**</mark> [<mark style="color:purple;">**Learn more**</mark>](transformational-sales/the-price-of-undervaluing-ourselves-how-we-teach-people-to-treat-us.md)
+Whether you're:
 
-This isn’t only about one marketplace - it’s about setting a new standard for how Muslim women do business. A standard that values honesty over hype, quality over quick wins, and barakah over shortcuts.
+* Starting your first business
+* Looking to transform your sales approach
+* Seeking to make integrity your edge
+* Preparing to join our marketplace
+* Or simply seeking to understand ethical commerce
 
-We’re not here to sell you anything today. We’re here to **build something that lasts.**
+Start anywhere. Grow everywhere.
 
 ***
 
-### **Join the Movement**
+### **Ready to Begin?**
 
-**Start now:** Learn how ethical business is both profitable and possible.&#x20;
+1. Learn the principles
+2. Implement the framework
+3. Join our community of ethical entrepreneurs
 
-**Apply the principles:** Test them in your business and see the difference.&#x20;
+_Together, we're building more than a marketplace – we're establishing a standard for ethical commerce that honors our faith and empowers our ummah in shaa Allaah._
 
-**Be ready**: When Nadra launches, you'll already be selling with integrity and success, in shaa Allaah.
-
-Let’s build a better marketplace, starting now.
+***
 
 ### Jump right in
 
