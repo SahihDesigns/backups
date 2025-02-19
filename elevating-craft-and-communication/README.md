@@ -1,17 +1,25 @@
 # ⚡ Elevating Craft and Communication
 
-Welcome to a journey where we help you elevate your craft and communicate more effectively with your customers. This guide will provide you with invaluable insights into creating a satisfying and trustworthy shopping experience in shaa Allaah. Whether you're just starting out or have years of experience, understanding where you are and managing expectations is key to building lasting relationships with your buyers.
+Welcome to a journey where we help you elevate your craft and communicate more effectively with your customers. This guide will provide you with invaluable insights into creating a satisfying and trustworthy shopping experience in shaa Allaah. Whether you're just starting out or have years of experience, understanding where you are and managing expectations is key to building lasting relationships with your customers.
 
 ### **1. Recognizing Your Position**
 
 Understanding your current level of craftsmanship is the first step towards improvement. Embrace where you are and use it as a foundation for growth.
 
-* **Beginner**: You're in the exciting phase of learning the basics and experimenting with different techniques. Your products might not be perfect yet, but each piece is a step towards mastery.
-  * **Example**: "As a new seller, I’m passionate about improving my craft. Every piece I create is a step towards mastering my skills."
-* **Intermediate**: You've gained some experience, and your products show consistent quality. You're starting to refine your craft and add unique touches.
-  * **Example**: "Our handcrafted candles are made with natural wax and essential oils. Each candle is carefully poured to ensure consistent quality and a delightful scent. We take pride in our growing expertise and attention to detail."
-* **Advanced**: You've mastered your craft, and your products are of high quality. You pay attention to the finest details and your work stands out in the market.
-  * **Example**: "This premium leather wallet is meticulously handcrafted using the finest materials. With a focus on precision and craftsmanship, each wallet is designed to provide both functionality and elegance. Our years of experience ensure that you receive a product of exceptional quality."
+* **Novice**: You're in the exciting phase of learning the basics and experimenting with different techniques. Your products might not be perfect yet, but each piece is a step towards mastery.
+  * **Example**:&#x20;
+    * "As a new seller, I’m passionate about improving my craft. Every piece I create is a step towards mastering my skills."
+    * "As a new seller, I’m still learning the ropes and experimenting with different techniques. Some of my products might not be perfect, but I’m dedicated to improving my skills with each creation."
+    * "As a new seller, I’m in the early stages of my journey. My products may not be perfect, and I'm still figuring out the best techniques. I appreciate your support as I work to improve and refine my skills."
+* **Proficient**: You've gained some experience, and your products show consistent quality. You're starting to refine your craft and add unique touches.
+  * **Example**:&#x20;
+    * "Our handcrafted candles are made with natural wax and essential oils. Each candle is carefully poured to ensure consistent quality and a delightful scent. We take pride in our growing expertise and attention to detail."
+    * "Our handcrafted candles are made with natural wax and essential oils. We’ve gained some experience and strive for consistent quality and a delightful scent, though we’re always looking for ways to refine and improve."
+    * "Our handcrafted candles are made with natural wax and essential oils. We’ve gained experience, but we’re still learning and growing. While we strive for consistent quality and delightful scents, we occasionally encounter challenges. We appreciate your understanding and support as we continue to refine our craft."
+* **Expert**: You've mastered your craft, and your products are of high quality. You pay attention to the finest details and your work stands out in the market.
+  * **Example**:&#x20;
+    * "As an experienced creator, my dedication to excellence is evident in every piece. Each product showcases high quality and attention to detail. While I’m confident in my skills, I’m always open to feedback and new ideas."
+    * "As an experienced creator, I strive for excellence in every piece. Each product is made with care and attention to detail, though I recognize there’s always room for improvement. I value your feedback and am committed to continuous growth and learning."
 
 ### **2. Communicating Value**
 
