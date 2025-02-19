@@ -31,6 +31,11 @@
     * [Ask](nadra-framework/the-framework/strengthen-patience/ask.md)
     * [Give](nadra-framework/the-framework/strengthen-patience/give.md)
 
+***
+
+* [⚡ Elevating Craft and Communication](elevating-craft-and-communication/README.md)
+  * [Simple Steps to Authentic Imagery](elevating-craft-and-communication/simple-steps-to-authentic-imagery.md)
+
 ## Transformational Sales
 
 * [Sales: Back to the Basics](transformational-sales/sales-back-to-the-basics/README.md)
